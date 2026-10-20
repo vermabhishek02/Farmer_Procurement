@@ -1,0 +1,50 @@
+[
+ {
+  "name": "Wheat",
+  "nameHi": "गेहूं",
+  "basePrice": 2425,
+  "volatility": 3
+ },
+ {
+  "name": "Mustard",
+  "nameHi": "सरसों",
+  "basePrice": 5600,
+  "volatility": 4
+ },
+ {
+  "name": "Potato",
+  "nameHi": "आलू",
+  "basePrice": 1200,
+  "volatility": 7
+ },
+ {
+  "name": "Onion",
+  "nameHi": "प्याज",
+  "basePrice": 2200,
+  "volatility": 9
+ },
+ {
+  "name": "Soybean",
+  "nameHi": "सोयाबीन",
+  "basePrice": 4500,
+  "volatility": 3
+ },
+ {
+  "name": "Gram (Chana)",
+  "nameHi": "चना",
+  "basePrice": 5300,
+  "volatility": 3
+ },
+ {
+  "name": "Rice",
+  "nameHi": "चावल",
+  "basePrice": 3900,
+  "volatility": 2.5
+ },
+ {
+  "name": "Tomato",
+  "nameHi": "टमाटर",
+  "basePrice": 1600,
+  "volatility": 14
+ }
+]

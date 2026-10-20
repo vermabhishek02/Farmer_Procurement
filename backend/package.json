@@ -1,0 +1,20 @@
+{
+  "name": "kheti-se-mandi-tak-backend",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "description": "Express + SQLite API for Kheti Se Mandi Tak",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node --no-warnings src/server.js",
+    "dev": "node --no-warnings --watch src/server.js",
+    "seed": "node --no-warnings scripts/seed.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.3.0",
+    "qrcode": "^1.5.4"
+  }
+}

@@ -1,0 +1,1402 @@
+[
+ {
+  "id": 1,
+  "name": "Meerut Mandi",
+  "district": "Meerut",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 2,
+  "name": "Agra Mandi",
+  "district": "Agra",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 3,
+  "name": "Mathura Mandi",
+  "district": "Mathura",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 4,
+  "name": "Lucknow Mandi",
+  "district": "Lucknow",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 5,
+  "name": "Kanpur Mandi",
+  "district": "Kanpur",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 6,
+  "name": "Varanasi Mandi",
+  "district": "Varanasi",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 7,
+  "name": "Prayagraj Mandi",
+  "district": "Prayagraj",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 8,
+  "name": "Ghaziabad Mandi",
+  "district": "Ghaziabad",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 9,
+  "name": "Dadri Mandi",
+  "district": "Gautam Buddha Nagar",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 10,
+  "name": "Aligarh Mandi",
+  "district": "Aligarh",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 11,
+  "name": "Bareilly Mandi",
+  "district": "Bareilly",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 12,
+  "name": "Moradabad Mandi",
+  "district": "Moradabad",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 13,
+  "name": "Saharanpur Mandi",
+  "district": "Saharanpur",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 14,
+  "name": "Muzaffarnagar Mandi",
+  "district": "Muzaffarnagar",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 15,
+  "name": "Hapur Mandi",
+  "district": "Hapur",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 16,
+  "name": "Bulandshahr Mandi",
+  "district": "Bulandshahr",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 17,
+  "name": "Etawah Mandi",
+  "district": "Etawah",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 18,
+  "name": "Firozabad Mandi",
+  "district": "Firozabad",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 19,
+  "name": "Jhansi Mandi",
+  "district": "Jhansi",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 20,
+  "name": "Gorakhpur Mandi",
+  "district": "Gorakhpur",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 21,
+  "name": "Ayodhya Mandi",
+  "district": "Ayodhya",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 22,
+  "name": "Sitapur Mandi",
+  "district": "Sitapur",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 23,
+  "name": "Hardoi Mandi",
+  "district": "Hardoi",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 24,
+  "name": "Rampur Mandi",
+  "district": "Rampur",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 25,
+  "name": "Shahjahanpur Mandi",
+  "district": "Shahjahanpur",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 26,
+  "name": "Budaun Mandi",
+  "district": "Budaun",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 27,
+  "name": "Mainpuri Mandi",
+  "district": "Mainpuri",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 28,
+  "name": "Farrukhabad Mandi",
+  "district": "Farrukhabad",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 29,
+  "name": "Basti Mandi",
+  "district": "Basti",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 30,
+  "name": "Azamgarh Mandi",
+  "district": "Azamgarh",
+  "state": "Uttar Pradesh",
+  "stateCode": "UP"
+ },
+ {
+  "id": 31,
+  "name": "Indore Mandi",
+  "district": "Indore",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 32,
+  "name": "Ujjain Mandi",
+  "district": "Ujjain",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 33,
+  "name": "Bhopal Mandi",
+  "district": "Bhopal",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 34,
+  "name": "Gwalior Mandi",
+  "district": "Gwalior",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 35,
+  "name": "Jabalpur Mandi",
+  "district": "Jabalpur",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 36,
+  "name": "Sagar Mandi",
+  "district": "Sagar",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 37,
+  "name": "Dewas Mandi",
+  "district": "Dewas",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 38,
+  "name": "Ratlam Mandi",
+  "district": "Ratlam",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 39,
+  "name": "Mandsaur Mandi",
+  "district": "Mandsaur",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 40,
+  "name": "Neemuch Mandi",
+  "district": "Neemuch",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 41,
+  "name": "Vidisha Mandi",
+  "district": "Vidisha",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 42,
+  "name": "Narmadapuram Mandi",
+  "district": "Narmadapuram",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 43,
+  "name": "Sehore Mandi",
+  "district": "Sehore",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 44,
+  "name": "Rewa Mandi",
+  "district": "Rewa",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 45,
+  "name": "Satna Mandi",
+  "district": "Satna",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 46,
+  "name": "Chhindwara Mandi",
+  "district": "Chhindwara",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 47,
+  "name": "Khargone Mandi",
+  "district": "Khargone",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 48,
+  "name": "Dhar Mandi",
+  "district": "Dhar",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 49,
+  "name": "Shajapur Mandi",
+  "district": "Shajapur",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 50,
+  "name": "Guna Mandi",
+  "district": "Guna",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 51,
+  "name": "Morena Mandi",
+  "district": "Morena",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 52,
+  "name": "Bhind Mandi",
+  "district": "Bhind",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 53,
+  "name": "Datia Mandi",
+  "district": "Datia",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 54,
+  "name": "Damoh Mandi",
+  "district": "Damoh",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 55,
+  "name": "Betul Mandi",
+  "district": "Betul",
+  "state": "Madhya Pradesh",
+  "stateCode": "MP"
+ },
+ {
+  "id": 56,
+  "name": "Khanna Mandi",
+  "district": "Ludhiana",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 57,
+  "name": "Amritsar Mandi",
+  "district": "Amritsar",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 58,
+  "name": "Ludhiana Mandi",
+  "district": "Ludhiana",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 59,
+  "name": "Jalandhar Mandi",
+  "district": "Jalandhar",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 60,
+  "name": "Patiala Mandi",
+  "district": "Patiala",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 61,
+  "name": "Bathinda Mandi",
+  "district": "Bathinda",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 62,
+  "name": "Moga Mandi",
+  "district": "Moga",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 63,
+  "name": "Sangrur Mandi",
+  "district": "Sangrur",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 64,
+  "name": "Firozpur Mandi",
+  "district": "Firozpur",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 65,
+  "name": "Fazilka Mandi",
+  "district": "Fazilka",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 66,
+  "name": "Muktsar Mandi",
+  "district": "Muktsar",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 67,
+  "name": "Hoshiarpur Mandi",
+  "district": "Hoshiarpur",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 68,
+  "name": "Gurdaspur Mandi",
+  "district": "Gurdaspur",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 69,
+  "name": "Kapurthala Mandi",
+  "district": "Kapurthala",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 70,
+  "name": "Barnala Mandi",
+  "district": "Barnala",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 71,
+  "name": "Mansa Mandi",
+  "district": "Mansa",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 72,
+  "name": "Faridkot Mandi",
+  "district": "Faridkot",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 73,
+  "name": "Rajpura Mandi",
+  "district": "Patiala",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 74,
+  "name": "Samana Mandi",
+  "district": "Patiala",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 75,
+  "name": "Abohar Mandi",
+  "district": "Fazilka",
+  "state": "Punjab",
+  "stateCode": "PB"
+ },
+ {
+  "id": 76,
+  "name": "Alwar Mandi",
+  "district": "Alwar",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 77,
+  "name": "Jaipur Mandi",
+  "district": "Jaipur",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 78,
+  "name": "Kota Mandi",
+  "district": "Kota",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 79,
+  "name": "Jodhpur Mandi",
+  "district": "Jodhpur",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 80,
+  "name": "Bikaner Mandi",
+  "district": "Bikaner",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 81,
+  "name": "Ajmer Mandi",
+  "district": "Ajmer",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 82,
+  "name": "Udaipur Mandi",
+  "district": "Udaipur",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 83,
+  "name": "Sri Ganganagar Mandi",
+  "district": "Sri Ganganagar",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 84,
+  "name": "Hanumangarh Mandi",
+  "district": "Hanumangarh",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 85,
+  "name": "Bharatpur Mandi",
+  "district": "Bharatpur",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 86,
+  "name": "Sikar Mandi",
+  "district": "Sikar",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 87,
+  "name": "Jhunjhunu Mandi",
+  "district": "Jhunjhunu",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 88,
+  "name": "Bhilwara Mandi",
+  "district": "Bhilwara",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 89,
+  "name": "Chittorgarh Mandi",
+  "district": "Chittorgarh",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 90,
+  "name": "Tonk Mandi",
+  "district": "Tonk",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 91,
+  "name": "Nagaur Mandi",
+  "district": "Nagaur",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 92,
+  "name": "Pali Mandi",
+  "district": "Pali",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 93,
+  "name": "Baran Mandi",
+  "district": "Baran",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 94,
+  "name": "Jhalawar Mandi",
+  "district": "Jhalawar",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 95,
+  "name": "Bundi Mandi",
+  "district": "Bundi",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 96,
+  "name": "Dausa Mandi",
+  "district": "Dausa",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 97,
+  "name": "Sawai Madhopur Mandi",
+  "district": "Sawai Madhopur",
+  "state": "Rajasthan",
+  "stateCode": "RJ"
+ },
+ {
+  "id": 98,
+  "name": "Lasalgaon Mandi",
+  "district": "Nashik",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 99,
+  "name": "Pune Mandi",
+  "district": "Pune",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 100,
+  "name": "Nashik Mandi",
+  "district": "Nashik",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 101,
+  "name": "Nagpur Mandi",
+  "district": "Nagpur",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 102,
+  "name": "Aurangabad Mandi",
+  "district": "Aurangabad",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 103,
+  "name": "Kolhapur Mandi",
+  "district": "Kolhapur",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 104,
+  "name": "Solapur Mandi",
+  "district": "Solapur",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 105,
+  "name": "Sangli Mandi",
+  "district": "Sangli",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 106,
+  "name": "Satara Mandi",
+  "district": "Satara",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 107,
+  "name": "Ahmednagar Mandi",
+  "district": "Ahmednagar",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 108,
+  "name": "Jalgaon Mandi",
+  "district": "Jalgaon",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 109,
+  "name": "Dhule Mandi",
+  "district": "Dhule",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 110,
+  "name": "Latur Mandi",
+  "district": "Latur",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 111,
+  "name": "Akola Mandi",
+  "district": "Akola",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 112,
+  "name": "Amravati Mandi",
+  "district": "Amravati",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 113,
+  "name": "Yavatmal Mandi",
+  "district": "Yavatmal",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 114,
+  "name": "Nanded Mandi",
+  "district": "Nanded",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 115,
+  "name": "Beed Mandi",
+  "district": "Beed",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 116,
+  "name": "Pimpalgaon Baswant Mandi",
+  "district": "Nashik",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 117,
+  "name": "Vashi Mandi",
+  "district": "Mumbai",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 118,
+  "name": "Wardha Mandi",
+  "district": "Wardha",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 119,
+  "name": "Washim Mandi",
+  "district": "Washim",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 120,
+  "name": "Buldhana Mandi",
+  "district": "Buldhana",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 121,
+  "name": "Parbhani Mandi",
+  "district": "Parbhani",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 122,
+  "name": "Osmanabad Mandi",
+  "district": "Osmanabad",
+  "state": "Maharashtra",
+  "stateCode": "MH"
+ },
+ {
+  "id": 123,
+  "name": "Patna Mandi",
+  "district": "Patna",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 124,
+  "name": "Gaya Mandi",
+  "district": "Gaya",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 125,
+  "name": "Muzaffarpur Mandi",
+  "district": "Muzaffarpur",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 126,
+  "name": "Bhagalpur Mandi",
+  "district": "Bhagalpur",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 127,
+  "name": "Darbhanga Mandi",
+  "district": "Darbhanga",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 128,
+  "name": "Purnia Mandi",
+  "district": "Purnia",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 129,
+  "name": "Samastipur Mandi",
+  "district": "Samastipur",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 130,
+  "name": "Begusarai Mandi",
+  "district": "Begusarai",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 131,
+  "name": "Arrah Mandi",
+  "district": "Bhojpur",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 132,
+  "name": "Buxar Mandi",
+  "district": "Buxar",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 133,
+  "name": "Katihar Mandi",
+  "district": "Katihar",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 134,
+  "name": "Sasaram Mandi",
+  "district": "Rohtas",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 135,
+  "name": "Siwan Mandi",
+  "district": "Siwan",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 136,
+  "name": "Chapra Mandi",
+  "district": "Saran",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 137,
+  "name": "Hajipur Mandi",
+  "district": "Vaishali",
+  "state": "Bihar",
+  "stateCode": "BR"
+ },
+ {
+  "id": 138,
+  "name": "Karnal Mandi",
+  "district": "Karnal",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 139,
+  "name": "Ambala Mandi",
+  "district": "Ambala",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 140,
+  "name": "Kurukshetra Mandi",
+  "district": "Kurukshetra",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 141,
+  "name": "Sirsa Mandi",
+  "district": "Sirsa",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 142,
+  "name": "Hisar Mandi",
+  "district": "Hisar",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 143,
+  "name": "Rohtak Mandi",
+  "district": "Rohtak",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 144,
+  "name": "Panipat Mandi",
+  "district": "Panipat",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 145,
+  "name": "Sonipat Mandi",
+  "district": "Sonipat",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 146,
+  "name": "Kaithal Mandi",
+  "district": "Kaithal",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 147,
+  "name": "Jind Mandi",
+  "district": "Jind",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 148,
+  "name": "Bhiwani Mandi",
+  "district": "Bhiwani",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 149,
+  "name": "Rewari Mandi",
+  "district": "Rewari",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 150,
+  "name": "Fatehabad Mandi",
+  "district": "Fatehabad",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 151,
+  "name": "Yamunanagar Mandi",
+  "district": "Yamunanagar",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 152,
+  "name": "Gurugram Mandi",
+  "district": "Gurugram",
+  "state": "Haryana",
+  "stateCode": "HR"
+ },
+ {
+  "id": 153,
+  "name": "Ahmedabad Mandi",
+  "district": "Ahmedabad",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 154,
+  "name": "Rajkot Mandi",
+  "district": "Rajkot",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 155,
+  "name": "Unjha Mandi",
+  "district": "Mehsana",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 156,
+  "name": "Gondal Mandi",
+  "district": "Rajkot",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 157,
+  "name": "Surat Mandi",
+  "district": "Surat",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 158,
+  "name": "Vadodara Mandi",
+  "district": "Vadodara",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 159,
+  "name": "Junagadh Mandi",
+  "district": "Junagadh",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 160,
+  "name": "Bhavnagar Mandi",
+  "district": "Bhavnagar",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 161,
+  "name": "Mahuva Mandi",
+  "district": "Bhavnagar",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 162,
+  "name": "Mehsana Mandi",
+  "district": "Mehsana",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 163,
+  "name": "Palanpur Mandi",
+  "district": "Banaskantha",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 164,
+  "name": "Deesa Mandi",
+  "district": "Banaskantha",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 165,
+  "name": "Jamnagar Mandi",
+  "district": "Jamnagar",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 166,
+  "name": "Amreli Mandi",
+  "district": "Amreli",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 167,
+  "name": "Bhuj Mandi",
+  "district": "Kutch",
+  "state": "Gujarat",
+  "stateCode": "GJ"
+ },
+ {
+  "id": 168,
+  "name": "Siliguri Mandi",
+  "district": "Darjeeling",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 169,
+  "name": "Burdwan Mandi",
+  "district": "Purba Bardhaman",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 170,
+  "name": "Singur Mandi",
+  "district": "Hooghly",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 171,
+  "name": "Bankura Mandi",
+  "district": "Bankura",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 172,
+  "name": "Malda Mandi",
+  "district": "Malda",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 173,
+  "name": "Cooch Behar Mandi",
+  "district": "Cooch Behar",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 174,
+  "name": "Krishnanagar Mandi",
+  "district": "Nadia",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 175,
+  "name": "Berhampore Mandi",
+  "district": "Murshidabad",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 176,
+  "name": "Midnapore Mandi",
+  "district": "Paschim Medinipur",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 177,
+  "name": "Koley Market Mandi",
+  "district": "Kolkata",
+  "state": "West Bengal",
+  "stateCode": "WB"
+ },
+ {
+  "id": 178,
+  "name": "Yeshwanthpur Mandi",
+  "district": "Bengaluru",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 179,
+  "name": "Hubballi Mandi",
+  "district": "Dharwad",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 180,
+  "name": "Belagavi Mandi",
+  "district": "Belagavi",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 181,
+  "name": "Davanagere Mandi",
+  "district": "Davanagere",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 182,
+  "name": "Raichur Mandi",
+  "district": "Raichur",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 183,
+  "name": "Gadag Mandi",
+  "district": "Gadag",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 184,
+  "name": "Kalaburagi Mandi",
+  "district": "Kalaburagi",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 185,
+  "name": "Mysuru Mandi",
+  "district": "Mysuru",
+  "state": "Karnataka",
+  "stateCode": "KA"
+ },
+ {
+  "id": 186,
+  "name": "Bowenpally Mandi",
+  "district": "Hyderabad",
+  "state": "Telangana",
+  "stateCode": "TG"
+ },
+ {
+  "id": 187,
+  "name": "Warangal Mandi",
+  "district": "Warangal",
+  "state": "Telangana",
+  "stateCode": "TG"
+ },
+ {
+  "id": 188,
+  "name": "Nizamabad Mandi",
+  "district": "Nizamabad",
+  "state": "Telangana",
+  "stateCode": "TG"
+ },
+ {
+  "id": 189,
+  "name": "Karimnagar Mandi",
+  "district": "Karimnagar",
+  "state": "Telangana",
+  "stateCode": "TG"
+ },
+ {
+  "id": 190,
+  "name": "Khammam Mandi",
+  "district": "Khammam",
+  "state": "Telangana",
+  "stateCode": "TG"
+ },
+ {
+  "id": 191,
+  "name": "Guntur Mandi",
+  "district": "Guntur",
+  "state": "Andhra Pradesh",
+  "stateCode": "AP"
+ },
+ {
+  "id": 192,
+  "name": "Kurnool Mandi",
+  "district": "Kurnool",
+  "state": "Andhra Pradesh",
+  "stateCode": "AP"
+ },
+ {
+  "id": 193,
+  "name": "Vijayawada Mandi",
+  "district": "NTR",
+  "state": "Andhra Pradesh",
+  "stateCode": "AP"
+ },
+ {
+  "id": 194,
+  "name": "Madanapalle Mandi",
+  "district": "Annamayya",
+  "state": "Andhra Pradesh",
+  "stateCode": "AP"
+ },
+ {
+  "id": 195,
+  "name": "Anantapur Mandi",
+  "district": "Anantapur",
+  "state": "Andhra Pradesh",
+  "stateCode": "AP"
+ },
+ {
+  "id": 196,
+  "name": "Cuttack Mandi",
+  "district": "Cuttack",
+  "state": "Odisha",
+  "stateCode": "OD"
+ },
+ {
+  "id": 197,
+  "name": "Bhubaneswar Mandi",
+  "district": "Khordha",
+  "state": "Odisha",
+  "stateCode": "OD"
+ },
+ {
+  "id": 198,
+  "name": "Raipur Mandi",
+  "district": "Raipur",
+  "state": "Chhattisgarh",
+  "stateCode": "CG"
+ },
+ {
+  "id": 199,
+  "name": "Bilaspur Mandi",
+  "district": "Bilaspur",
+  "state": "Chhattisgarh",
+  "stateCode": "CG"
+ },
+ {
+  "id": 200,
+  "name": "Durg Mandi",
+  "district": "Durg",
+  "state": "Chhattisgarh",
+  "stateCode": "CG"
+ }
+]

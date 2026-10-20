@@ -1,0 +1,62 @@
+[
+ {
+  "id": "j1",
+  "crop": "Wheat",
+  "quantity": 45,
+  "pickup": "Village Sisauli, Muzaffarnagar",
+  "destination": "Meerut Mandi",
+  "distanceKm": 62,
+  "fare": 1864,
+  "date": "23 Sep 2026",
+  "status": "Requested",
+  "farmer": "Ramesh Kumar"
+ },
+ {
+  "id": "j2",
+  "crop": "Potato",
+  "quantity": 30,
+  "pickup": "Farm 12, Agra",
+  "destination": "Agra Mandi",
+  "distanceKm": 14,
+  "fare": 808,
+  "date": "23 Sep 2026",
+  "status": "Requested",
+  "farmer": "Suresh Yadav"
+ },
+ {
+  "id": "j3",
+  "crop": "Mustard",
+  "quantity": 55,
+  "pickup": "Alwar Rural",
+  "destination": "Alwar Mandi",
+  "distanceKm": 28,
+  "fare": 904,
+  "date": "22 Sep 2026",
+  "status": "En Route",
+  "farmer": "Mahesh Sharma"
+ },
+ {
+  "id": "j4",
+  "crop": "Onion",
+  "quantity": 80,
+  "pickup": "Lasalgaon",
+  "destination": "Nashik Cold Chain",
+  "distanceKm": 22,
+  "fare": 2124,
+  "date": "22 Sep 2026",
+  "status": "Loaded",
+  "farmer": "Vijay Patil"
+ },
+ {
+  "id": "j5",
+  "crop": "Soybean",
+  "quantity": 40,
+  "pickup": "Dewas",
+  "destination": "Indore Mandi",
+  "distanceKm": 38,
+  "fare": 1084,
+  "date": "21 Sep 2026",
+  "status": "Delivered",
+  "farmer": "Anil Verma"
+ }
+]

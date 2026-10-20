@@ -1,0 +1,55 @@
+[
+ {
+  "id": "b1",
+  "name": "AgroFresh Exports",
+  "type": "Exporter",
+  "location": "Delhi",
+  "rating": 4.8,
+  "verified": true,
+  "buying": [
+   "Wheat",
+   "Mustard"
+  ],
+  "bidPrice": 2480
+ },
+ {
+  "id": "b2",
+  "name": "BigBasket Sourcing",
+  "type": "Retail Chain",
+  "location": "Mumbai",
+  "rating": 4.6,
+  "verified": true,
+  "buying": [
+   "Onion",
+   "Potato",
+   "Tomato"
+  ],
+  "bidPrice": 2260
+ },
+ {
+  "id": "b3",
+  "name": "Patanjali Foods",
+  "type": "Processor",
+  "location": "Haridwar",
+  "rating": 4.7,
+  "verified": true,
+  "buying": [
+   "Mustard",
+   "Soybean"
+  ],
+  "bidPrice": 5720
+ },
+ {
+  "id": "b4",
+  "name": "Local Wholesaler - Reddy",
+  "type": "Wholesaler",
+  "location": "Hyderabad",
+  "rating": 4.2,
+  "verified": false,
+  "buying": [
+   "Rice",
+   "Gram (Chana)"
+  ],
+  "bidPrice": 3920
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "id": "v1",
+  "name": "Mini Truck",
+  "nameHi": "मिनी ट्रक",
+  "capacity": "Up to 30 quintals",
+  "ratePerKm": 22,
+  "baseFare": 500,
+  "icon": "mini-truck"
+ },
+ {
+  "id": "v2",
+  "name": "Tractor Trolley",
+  "nameHi": "ट्रैक्टर ट्रॉली",
+  "capacity": "Up to 50 quintals",
+  "ratePerKm": 18,
+  "baseFare": 400,
+  "icon": "tractor"
+ },
+ {
+  "id": "v3",
+  "name": "6-Wheeler Truck",
+  "nameHi": "6-व्हीलर ट्रक",
+  "capacity": "Up to 120 quintals",
+  "ratePerKm": 35,
+  "baseFare": 900,
+  "icon": "truck"
+ },
+ {
+  "id": "v4",
+  "name": "Cold Storage Van",
+  "nameHi": "कोल्ड स्टोरेज वैन",
+  "capacity": "Up to 40 quintals",
+  "ratePerKm": 42,
+  "baseFare": 1200,
+  "icon": "cold-van"
+ }
+]

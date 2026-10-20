@@ -1,0 +1,6023 @@
+[
+ {
+  "id": "m1",
+  "mandiId": 1,
+  "commodity": "Wheat",
+  "price": 2425,
+  "prevPrice": 2380,
+  "changePct": 1.9,
+  "trend": "up"
+ },
+ {
+  "id": "m2",
+  "mandiId": 76,
+  "commodity": "Mustard",
+  "price": 5680,
+  "prevPrice": 5810,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m3",
+  "mandiId": 2,
+  "commodity": "Potato",
+  "price": 1240,
+  "prevPrice": 1180,
+  "changePct": 5.1,
+  "trend": "up"
+ },
+ {
+  "id": "m4",
+  "mandiId": 98,
+  "commodity": "Onion",
+  "price": 2150,
+  "prevPrice": 2320,
+  "changePct": -7.3,
+  "trend": "down"
+ },
+ {
+  "id": "m5",
+  "mandiId": 31,
+  "commodity": "Soybean",
+  "price": 4560,
+  "prevPrice": 4560,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m6",
+  "mandiId": 32,
+  "commodity": "Gram (Chana)",
+  "price": 5320,
+  "prevPrice": 5210,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m7",
+  "mandiId": 56,
+  "commodity": "Wheat",
+  "price": 2510,
+  "prevPrice": 2495,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m8",
+  "mandiId": 57,
+  "commodity": "Rice",
+  "price": 3890,
+  "prevPrice": 3950,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m9",
+  "mandiId": 99,
+  "commodity": "Tomato",
+  "price": 1650,
+  "prevPrice": 1420,
+  "changePct": 16.2,
+  "trend": "up"
+ },
+ {
+  "id": "m10",
+  "mandiId": 77,
+  "commodity": "Onion",
+  "price": 2280,
+  "prevPrice": 2210,
+  "changePct": 3.2,
+  "trend": "up"
+ },
+ {
+  "id": "m11",
+  "mandiId": 123,
+  "commodity": "Potato",
+  "price": 1090,
+  "prevPrice": 1150,
+  "changePct": -5.2,
+  "trend": "down"
+ },
+ {
+  "id": "m12",
+  "mandiId": 3,
+  "commodity": "Mustard",
+  "price": 5540,
+  "prevPrice": 5490,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m13",
+  "mandiId": 1,
+  "commodity": "Gram (Chana)",
+  "price": 5455,
+  "prevPrice": 5359,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m14",
+  "mandiId": 1,
+  "commodity": "Onion",
+  "price": 2125,
+  "prevPrice": 2315,
+  "changePct": -8.2,
+  "trend": "down"
+ },
+ {
+  "id": "m15",
+  "mandiId": 2,
+  "commodity": "Onion",
+  "price": 2165,
+  "prevPrice": 2012,
+  "changePct": 7.6,
+  "trend": "up"
+ },
+ {
+  "id": "m16",
+  "mandiId": 2,
+  "commodity": "Mustard",
+  "price": 5660,
+  "prevPrice": 5896,
+  "changePct": -4,
+  "trend": "down"
+ },
+ {
+  "id": "m17",
+  "mandiId": 2,
+  "commodity": "Gram (Chana)",
+  "price": 5050,
+  "prevPrice": 5117,
+  "changePct": -1.3,
+  "trend": "down"
+ },
+ {
+  "id": "m18",
+  "mandiId": 3,
+  "commodity": "Potato",
+  "price": 1185,
+  "prevPrice": 1222,
+  "changePct": -3,
+  "trend": "down"
+ },
+ {
+  "id": "m19",
+  "mandiId": 3,
+  "commodity": "Wheat",
+  "price": 2490,
+  "prevPrice": 2439,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m20",
+  "mandiId": 4,
+  "commodity": "Rice",
+  "price": 4050,
+  "prevPrice": 4070,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m21",
+  "mandiId": 4,
+  "commodity": "Mustard",
+  "price": 6020,
+  "prevPrice": 5937,
+  "changePct": 1.4,
+  "trend": "up"
+ },
+ {
+  "id": "m22",
+  "mandiId": 4,
+  "commodity": "Potato",
+  "price": 1225,
+  "prevPrice": 1249,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m23",
+  "mandiId": 5,
+  "commodity": "Potato",
+  "price": 1200,
+  "prevPrice": 1257,
+  "changePct": -4.5,
+  "trend": "down"
+ },
+ {
+  "id": "m24",
+  "mandiId": 5,
+  "commodity": "Onion",
+  "price": 2370,
+  "prevPrice": 2328,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m25",
+  "mandiId": 5,
+  "commodity": "Mustard",
+  "price": 5930,
+  "prevPrice": 5808,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m26",
+  "mandiId": 5,
+  "commodity": "Rice",
+  "price": 3960,
+  "prevPrice": 3960,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m27",
+  "mandiId": 6,
+  "commodity": "Wheat",
+  "price": 2375,
+  "prevPrice": 2446,
+  "changePct": -2.9,
+  "trend": "down"
+ },
+ {
+  "id": "m28",
+  "mandiId": 6,
+  "commodity": "Potato",
+  "price": 1140,
+  "prevPrice": 1211,
+  "changePct": -5.9,
+  "trend": "down"
+ },
+ {
+  "id": "m29",
+  "mandiId": 6,
+  "commodity": "Gram (Chana)",
+  "price": 5685,
+  "prevPrice": 5541,
+  "changePct": 2.6,
+  "trend": "up"
+ },
+ {
+  "id": "m30",
+  "mandiId": 7,
+  "commodity": "Rice",
+  "price": 4150,
+  "prevPrice": 4252,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m31",
+  "mandiId": 7,
+  "commodity": "Gram (Chana)",
+  "price": 5695,
+  "prevPrice": 5655,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m32",
+  "mandiId": 7,
+  "commodity": "Wheat",
+  "price": 2575,
+  "prevPrice": 2617,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m33",
+  "mandiId": 7,
+  "commodity": "Onion",
+  "price": 2235,
+  "prevPrice": 2215,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m34",
+  "mandiId": 8,
+  "commodity": "Potato",
+  "price": 1285,
+  "prevPrice": 1211,
+  "changePct": 6.1,
+  "trend": "up"
+ },
+ {
+  "id": "m35",
+  "mandiId": 8,
+  "commodity": "Wheat",
+  "price": 2415,
+  "prevPrice": 2415,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m36",
+  "mandiId": 8,
+  "commodity": "Mustard",
+  "price": 5155,
+  "prevPrice": 5266,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m37",
+  "mandiId": 8,
+  "commodity": "Rice",
+  "price": 4105,
+  "prevPrice": 4021,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m38",
+  "mandiId": 9,
+  "commodity": "Onion",
+  "price": 2105,
+  "prevPrice": 2175,
+  "changePct": -3.2,
+  "trend": "down"
+ },
+ {
+  "id": "m39",
+  "mandiId": 9,
+  "commodity": "Rice",
+  "price": 4030,
+  "prevPrice": 3959,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m40",
+  "mandiId": 9,
+  "commodity": "Mustard",
+  "price": 5325,
+  "prevPrice": 5283,
+  "changePct": 0.8,
+  "trend": "up"
+ },
+ {
+  "id": "m41",
+  "mandiId": 10,
+  "commodity": "Rice",
+  "price": 3715,
+  "prevPrice": 3768,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m42",
+  "mandiId": 10,
+  "commodity": "Onion",
+  "price": 2135,
+  "prevPrice": 2274,
+  "changePct": -6.1,
+  "trend": "down"
+ },
+ {
+  "id": "m43",
+  "mandiId": 10,
+  "commodity": "Potato",
+  "price": 1275,
+  "prevPrice": 1300,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m44",
+  "mandiId": 11,
+  "commodity": "Wheat",
+  "price": 2520,
+  "prevPrice": 2540,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m45",
+  "mandiId": 11,
+  "commodity": "Onion",
+  "price": 2110,
+  "prevPrice": 2118,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m46",
+  "mandiId": 11,
+  "commodity": "Gram (Chana)",
+  "price": 5070,
+  "prevPrice": 5211,
+  "changePct": -2.7,
+  "trend": "down"
+ },
+ {
+  "id": "m47",
+  "mandiId": 11,
+  "commodity": "Rice",
+  "price": 3655,
+  "prevPrice": 3573,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m48",
+  "mandiId": 12,
+  "commodity": "Potato",
+  "price": 1165,
+  "prevPrice": 1102,
+  "changePct": 5.7,
+  "trend": "up"
+ },
+ {
+  "id": "m49",
+  "mandiId": 12,
+  "commodity": "Mustard",
+  "price": 5230,
+  "prevPrice": 5326,
+  "changePct": -1.8,
+  "trend": "down"
+ },
+ {
+  "id": "m50",
+  "mandiId": 12,
+  "commodity": "Rice",
+  "price": 3615,
+  "prevPrice": 3597,
+  "changePct": 0.5,
+  "trend": "up"
+ },
+ {
+  "id": "m51",
+  "mandiId": 12,
+  "commodity": "Wheat",
+  "price": 2455,
+  "prevPrice": 2383,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m52",
+  "mandiId": 13,
+  "commodity": "Wheat",
+  "price": 2390,
+  "prevPrice": 2369,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m53",
+  "mandiId": 13,
+  "commodity": "Potato",
+  "price": 1245,
+  "prevPrice": 1312,
+  "changePct": -5.1,
+  "trend": "down"
+ },
+ {
+  "id": "m54",
+  "mandiId": 13,
+  "commodity": "Gram (Chana)",
+  "price": 5160,
+  "prevPrice": 5186,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m55",
+  "mandiId": 14,
+  "commodity": "Rice",
+  "price": 3875,
+  "prevPrice": 3938,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m56",
+  "mandiId": 14,
+  "commodity": "Mustard",
+  "price": 5350,
+  "prevPrice": 5454,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m57",
+  "mandiId": 14,
+  "commodity": "Onion",
+  "price": 2265,
+  "prevPrice": 2188,
+  "changePct": 3.5,
+  "trend": "up"
+ },
+ {
+  "id": "m58",
+  "mandiId": 15,
+  "commodity": "Gram (Chana)",
+  "price": 5475,
+  "prevPrice": 5587,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m59",
+  "mandiId": 15,
+  "commodity": "Onion",
+  "price": 2125,
+  "prevPrice": 2166,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m60",
+  "mandiId": 15,
+  "commodity": "Mustard",
+  "price": 6040,
+  "prevPrice": 6010,
+  "changePct": 0.5,
+  "trend": "up"
+ },
+ {
+  "id": "m61",
+  "mandiId": 16,
+  "commodity": "Wheat",
+  "price": 2525,
+  "prevPrice": 2571,
+  "changePct": -1.8,
+  "trend": "down"
+ },
+ {
+  "id": "m62",
+  "mandiId": 16,
+  "commodity": "Onion",
+  "price": 2365,
+  "prevPrice": 2524,
+  "changePct": -6.3,
+  "trend": "down"
+ },
+ {
+  "id": "m63",
+  "mandiId": 16,
+  "commodity": "Rice",
+  "price": 3650,
+  "prevPrice": 3679,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m64",
+  "mandiId": 17,
+  "commodity": "Mustard",
+  "price": 5530,
+  "prevPrice": 5731,
+  "changePct": -3.5,
+  "trend": "down"
+ },
+ {
+  "id": "m65",
+  "mandiId": 17,
+  "commodity": "Rice",
+  "price": 3955,
+  "prevPrice": 4044,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m66",
+  "mandiId": 17,
+  "commodity": "Onion",
+  "price": 2160,
+  "prevPrice": 2335,
+  "changePct": -7.5,
+  "trend": "down"
+ },
+ {
+  "id": "m67",
+  "mandiId": 17,
+  "commodity": "Potato",
+  "price": 1180,
+  "prevPrice": 1208,
+  "changePct": -2.3,
+  "trend": "down"
+ },
+ {
+  "id": "m68",
+  "mandiId": 18,
+  "commodity": "Onion",
+  "price": 2070,
+  "prevPrice": 1983,
+  "changePct": 4.4,
+  "trend": "up"
+ },
+ {
+  "id": "m69",
+  "mandiId": 18,
+  "commodity": "Wheat",
+  "price": 2540,
+  "prevPrice": 2493,
+  "changePct": 1.9,
+  "trend": "up"
+ },
+ {
+  "id": "m70",
+  "mandiId": 18,
+  "commodity": "Potato",
+  "price": 1225,
+  "prevPrice": 1258,
+  "changePct": -2.6,
+  "trend": "down"
+ },
+ {
+  "id": "m71",
+  "mandiId": 19,
+  "commodity": "Gram (Chana)",
+  "price": 4980,
+  "prevPrice": 4840,
+  "changePct": 2.9,
+  "trend": "up"
+ },
+ {
+  "id": "m72",
+  "mandiId": 19,
+  "commodity": "Potato",
+  "price": 1200,
+  "prevPrice": 1200,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m73",
+  "mandiId": 19,
+  "commodity": "Rice",
+  "price": 3915,
+  "prevPrice": 3899,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m74",
+  "mandiId": 20,
+  "commodity": "Wheat",
+  "price": 2235,
+  "prevPrice": 2170,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m75",
+  "mandiId": 20,
+  "commodity": "Rice",
+  "price": 3930,
+  "prevPrice": 3998,
+  "changePct": -1.7,
+  "trend": "down"
+ },
+ {
+  "id": "m76",
+  "mandiId": 20,
+  "commodity": "Mustard",
+  "price": 5430,
+  "prevPrice": 5246,
+  "changePct": 3.5,
+  "trend": "up"
+ },
+ {
+  "id": "m77",
+  "mandiId": 21,
+  "commodity": "Potato",
+  "price": 1170,
+  "prevPrice": 1139,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m78",
+  "mandiId": 21,
+  "commodity": "Wheat",
+  "price": 2285,
+  "prevPrice": 2306,
+  "changePct": -0.9,
+  "trend": "down"
+ },
+ {
+  "id": "m79",
+  "mandiId": 21,
+  "commodity": "Mustard",
+  "price": 5755,
+  "prevPrice": 5790,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m80",
+  "mandiId": 22,
+  "commodity": "Onion",
+  "price": 2105,
+  "prevPrice": 2099,
+  "changePct": 0.3,
+  "trend": "up"
+ },
+ {
+  "id": "m81",
+  "mandiId": 22,
+  "commodity": "Gram (Chana)",
+  "price": 4905,
+  "prevPrice": 4905,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m82",
+  "mandiId": 22,
+  "commodity": "Rice",
+  "price": 3670,
+  "prevPrice": 3612,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m83",
+  "mandiId": 23,
+  "commodity": "Onion",
+  "price": 2365,
+  "prevPrice": 2194,
+  "changePct": 7.8,
+  "trend": "up"
+ },
+ {
+  "id": "m84",
+  "mandiId": 23,
+  "commodity": "Wheat",
+  "price": 2580,
+  "prevPrice": 2580,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m85",
+  "mandiId": 23,
+  "commodity": "Potato",
+  "price": 1270,
+  "prevPrice": 1190,
+  "changePct": 6.7,
+  "trend": "up"
+ },
+ {
+  "id": "m86",
+  "mandiId": 24,
+  "commodity": "Potato",
+  "price": 1190,
+  "prevPrice": 1257,
+  "changePct": -5.3,
+  "trend": "down"
+ },
+ {
+  "id": "m87",
+  "mandiId": 24,
+  "commodity": "Rice",
+  "price": 3930,
+  "prevPrice": 4006,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m88",
+  "mandiId": 24,
+  "commodity": "Onion",
+  "price": 2315,
+  "prevPrice": 2288,
+  "changePct": 1.2,
+  "trend": "up"
+ },
+ {
+  "id": "m89",
+  "mandiId": 25,
+  "commodity": "Gram (Chana)",
+  "price": 5630,
+  "prevPrice": 5525,
+  "changePct": 1.9,
+  "trend": "up"
+ },
+ {
+  "id": "m90",
+  "mandiId": 25,
+  "commodity": "Mustard",
+  "price": 5495,
+  "prevPrice": 5539,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m91",
+  "mandiId": 25,
+  "commodity": "Potato",
+  "price": 1280,
+  "prevPrice": 1321,
+  "changePct": -3.1,
+  "trend": "down"
+ },
+ {
+  "id": "m92",
+  "mandiId": 26,
+  "commodity": "Onion",
+  "price": 2045,
+  "prevPrice": 2208,
+  "changePct": -7.4,
+  "trend": "down"
+ },
+ {
+  "id": "m93",
+  "mandiId": 26,
+  "commodity": "Rice",
+  "price": 3925,
+  "prevPrice": 3925,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m94",
+  "mandiId": 26,
+  "commodity": "Potato",
+  "price": 1160,
+  "prevPrice": 1201,
+  "changePct": -3.4,
+  "trend": "down"
+ },
+ {
+  "id": "m95",
+  "mandiId": 27,
+  "commodity": "Onion",
+  "price": 2090,
+  "prevPrice": 2247,
+  "changePct": -7,
+  "trend": "down"
+ },
+ {
+  "id": "m96",
+  "mandiId": 27,
+  "commodity": "Mustard",
+  "price": 5555,
+  "prevPrice": 5383,
+  "changePct": 3.2,
+  "trend": "up"
+ },
+ {
+  "id": "m97",
+  "mandiId": 27,
+  "commodity": "Potato",
+  "price": 1240,
+  "prevPrice": 1240,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m98",
+  "mandiId": 28,
+  "commodity": "Wheat",
+  "price": 2520,
+  "prevPrice": 2571,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m99",
+  "mandiId": 28,
+  "commodity": "Potato",
+  "price": 1145,
+  "prevPrice": 1191,
+  "changePct": -3.9,
+  "trend": "down"
+ },
+ {
+  "id": "m100",
+  "mandiId": 28,
+  "commodity": "Mustard",
+  "price": 5290,
+  "prevPrice": 5212,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m101",
+  "mandiId": 28,
+  "commodity": "Gram (Chana)",
+  "price": 5655,
+  "prevPrice": 5735,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m102",
+  "mandiId": 29,
+  "commodity": "Potato",
+  "price": 1180,
+  "prevPrice": 1192,
+  "changePct": -1,
+  "trend": "down"
+ },
+ {
+  "id": "m103",
+  "mandiId": 29,
+  "commodity": "Gram (Chana)",
+  "price": 5200,
+  "prevPrice": 5285,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m104",
+  "mandiId": 29,
+  "commodity": "Onion",
+  "price": 2215,
+  "prevPrice": 2249,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m105",
+  "mandiId": 30,
+  "commodity": "Potato",
+  "price": 1140,
+  "prevPrice": 1070,
+  "changePct": 6.5,
+  "trend": "up"
+ },
+ {
+  "id": "m106",
+  "mandiId": 30,
+  "commodity": "Gram (Chana)",
+  "price": 5620,
+  "prevPrice": 5677,
+  "changePct": -1,
+  "trend": "down"
+ },
+ {
+  "id": "m107",
+  "mandiId": 30,
+  "commodity": "Onion",
+  "price": 2245,
+  "prevPrice": 2245,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m108",
+  "mandiId": 31,
+  "commodity": "Gram (Chana)",
+  "price": 5665,
+  "prevPrice": 5711,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m109",
+  "mandiId": 31,
+  "commodity": "Potato",
+  "price": 1160,
+  "prevPrice": 1190,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m110",
+  "mandiId": 31,
+  "commodity": "Onion",
+  "price": 2055,
+  "prevPrice": 2027,
+  "changePct": 1.4,
+  "trend": "up"
+ },
+ {
+  "id": "m111",
+  "mandiId": 32,
+  "commodity": "Onion",
+  "price": 2145,
+  "prevPrice": 2178,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m112",
+  "mandiId": 32,
+  "commodity": "Soybean",
+  "price": 4330,
+  "prevPrice": 4330,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m113",
+  "mandiId": 33,
+  "commodity": "Mustard",
+  "price": 5425,
+  "prevPrice": 5633,
+  "changePct": -3.7,
+  "trend": "down"
+ },
+ {
+  "id": "m114",
+  "mandiId": 33,
+  "commodity": "Potato",
+  "price": 1110,
+  "prevPrice": 1155,
+  "changePct": -3.9,
+  "trend": "down"
+ },
+ {
+  "id": "m115",
+  "mandiId": 33,
+  "commodity": "Onion",
+  "price": 2035,
+  "prevPrice": 1953,
+  "changePct": 4.2,
+  "trend": "up"
+ },
+ {
+  "id": "m116",
+  "mandiId": 34,
+  "commodity": "Gram (Chana)",
+  "price": 4875,
+  "prevPrice": 4974,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m117",
+  "mandiId": 34,
+  "commodity": "Wheat",
+  "price": 2490,
+  "prevPrice": 2458,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m118",
+  "mandiId": 34,
+  "commodity": "Potato",
+  "price": 1235,
+  "prevPrice": 1311,
+  "changePct": -5.8,
+  "trend": "down"
+ },
+ {
+  "id": "m119",
+  "mandiId": 35,
+  "commodity": "Onion",
+  "price": 2205,
+  "prevPrice": 2221,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m120",
+  "mandiId": 35,
+  "commodity": "Mustard",
+  "price": 5855,
+  "prevPrice": 5896,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m121",
+  "mandiId": 35,
+  "commodity": "Wheat",
+  "price": 2500,
+  "prevPrice": 2513,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m122",
+  "mandiId": 36,
+  "commodity": "Potato",
+  "price": 1170,
+  "prevPrice": 1167,
+  "changePct": 0.3,
+  "trend": "up"
+ },
+ {
+  "id": "m123",
+  "mandiId": 36,
+  "commodity": "Wheat",
+  "price": 2550,
+  "prevPrice": 2568,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m124",
+  "mandiId": 36,
+  "commodity": "Onion",
+  "price": 2030,
+  "prevPrice": 1913,
+  "changePct": 6.1,
+  "trend": "up"
+ },
+ {
+  "id": "m125",
+  "mandiId": 37,
+  "commodity": "Wheat",
+  "price": 2290,
+  "prevPrice": 2239,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m126",
+  "mandiId": 37,
+  "commodity": "Mustard",
+  "price": 5840,
+  "prevPrice": 5648,
+  "changePct": 3.4,
+  "trend": "up"
+ },
+ {
+  "id": "m127",
+  "mandiId": 37,
+  "commodity": "Onion",
+  "price": 2260,
+  "prevPrice": 2342,
+  "changePct": -3.5,
+  "trend": "down"
+ },
+ {
+  "id": "m128",
+  "mandiId": 38,
+  "commodity": "Potato",
+  "price": 1275,
+  "prevPrice": 1327,
+  "changePct": -3.9,
+  "trend": "down"
+ },
+ {
+  "id": "m129",
+  "mandiId": 38,
+  "commodity": "Gram (Chana)",
+  "price": 5150,
+  "prevPrice": 5213,
+  "changePct": -1.2,
+  "trend": "down"
+ },
+ {
+  "id": "m130",
+  "mandiId": 38,
+  "commodity": "Soybean",
+  "price": 4750,
+  "prevPrice": 4625,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m131",
+  "mandiId": 39,
+  "commodity": "Potato",
+  "price": 1145,
+  "prevPrice": 1198,
+  "changePct": -4.4,
+  "trend": "down"
+ },
+ {
+  "id": "m132",
+  "mandiId": 39,
+  "commodity": "Onion",
+  "price": 2175,
+  "prevPrice": 2184,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m133",
+  "mandiId": 39,
+  "commodity": "Wheat",
+  "price": 2345,
+  "prevPrice": 2359,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m134",
+  "mandiId": 40,
+  "commodity": "Mustard",
+  "price": 5265,
+  "prevPrice": 5213,
+  "changePct": 1,
+  "trend": "up"
+ },
+ {
+  "id": "m135",
+  "mandiId": 40,
+  "commodity": "Soybean",
+  "price": 4620,
+  "prevPrice": 4592,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m136",
+  "mandiId": 40,
+  "commodity": "Potato",
+  "price": 1270,
+  "prevPrice": 1204,
+  "changePct": 5.5,
+  "trend": "up"
+ },
+ {
+  "id": "m137",
+  "mandiId": 41,
+  "commodity": "Onion",
+  "price": 2025,
+  "prevPrice": 2054,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m138",
+  "mandiId": 41,
+  "commodity": "Gram (Chana)",
+  "price": 4990,
+  "prevPrice": 4873,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m139",
+  "mandiId": 41,
+  "commodity": "Mustard",
+  "price": 5205,
+  "prevPrice": 5377,
+  "changePct": -3.2,
+  "trend": "down"
+ },
+ {
+  "id": "m140",
+  "mandiId": 42,
+  "commodity": "Soybean",
+  "price": 4440,
+  "prevPrice": 4374,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m141",
+  "mandiId": 42,
+  "commodity": "Mustard",
+  "price": 5755,
+  "prevPrice": 5784,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m142",
+  "mandiId": 42,
+  "commodity": "Potato",
+  "price": 1210,
+  "prevPrice": 1210,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m143",
+  "mandiId": 43,
+  "commodity": "Soybean",
+  "price": 4655,
+  "prevPrice": 4674,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m144",
+  "mandiId": 43,
+  "commodity": "Onion",
+  "price": 2260,
+  "prevPrice": 2177,
+  "changePct": 3.8,
+  "trend": "up"
+ },
+ {
+  "id": "m145",
+  "mandiId": 43,
+  "commodity": "Potato",
+  "price": 1225,
+  "prevPrice": 1314,
+  "changePct": -6.8,
+  "trend": "down"
+ },
+ {
+  "id": "m146",
+  "mandiId": 44,
+  "commodity": "Soybean",
+  "price": 4145,
+  "prevPrice": 4170,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m147",
+  "mandiId": 44,
+  "commodity": "Wheat",
+  "price": 2330,
+  "prevPrice": 2392,
+  "changePct": -2.6,
+  "trend": "down"
+ },
+ {
+  "id": "m148",
+  "mandiId": 44,
+  "commodity": "Potato",
+  "price": 1145,
+  "prevPrice": 1093,
+  "changePct": 4.8,
+  "trend": "up"
+ },
+ {
+  "id": "m149",
+  "mandiId": 45,
+  "commodity": "Gram (Chana)",
+  "price": 5140,
+  "prevPrice": 5140,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m150",
+  "mandiId": 45,
+  "commodity": "Soybean",
+  "price": 4770,
+  "prevPrice": 4704,
+  "changePct": 1.4,
+  "trend": "up"
+ },
+ {
+  "id": "m151",
+  "mandiId": 45,
+  "commodity": "Potato",
+  "price": 1170,
+  "prevPrice": 1245,
+  "changePct": -6,
+  "trend": "down"
+ },
+ {
+  "id": "m152",
+  "mandiId": 46,
+  "commodity": "Soybean",
+  "price": 4615,
+  "prevPrice": 4709,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m153",
+  "mandiId": 46,
+  "commodity": "Gram (Chana)",
+  "price": 5625,
+  "prevPrice": 5642,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m154",
+  "mandiId": 46,
+  "commodity": "Potato",
+  "price": 1275,
+  "prevPrice": 1328,
+  "changePct": -4,
+  "trend": "down"
+ },
+ {
+  "id": "m155",
+  "mandiId": 46,
+  "commodity": "Onion",
+  "price": 2115,
+  "prevPrice": 2203,
+  "changePct": -4,
+  "trend": "down"
+ },
+ {
+  "id": "m156",
+  "mandiId": 47,
+  "commodity": "Potato",
+  "price": 1110,
+  "prevPrice": 1096,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m157",
+  "mandiId": 47,
+  "commodity": "Soybean",
+  "price": 4300,
+  "prevPrice": 4175,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m158",
+  "mandiId": 47,
+  "commodity": "Gram (Chana)",
+  "price": 5630,
+  "prevPrice": 5757,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m159",
+  "mandiId": 48,
+  "commodity": "Mustard",
+  "price": 5300,
+  "prevPrice": 5498,
+  "changePct": -3.6,
+  "trend": "down"
+ },
+ {
+  "id": "m160",
+  "mandiId": 48,
+  "commodity": "Potato",
+  "price": 1170,
+  "prevPrice": 1199,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m161",
+  "mandiId": 48,
+  "commodity": "Wheat",
+  "price": 2370,
+  "prevPrice": 2423,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m162",
+  "mandiId": 49,
+  "commodity": "Onion",
+  "price": 2240,
+  "prevPrice": 2286,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m163",
+  "mandiId": 49,
+  "commodity": "Potato",
+  "price": 1230,
+  "prevPrice": 1185,
+  "changePct": 3.8,
+  "trend": "up"
+ },
+ {
+  "id": "m164",
+  "mandiId": 49,
+  "commodity": "Wheat",
+  "price": 2590,
+  "prevPrice": 2637,
+  "changePct": -1.8,
+  "trend": "down"
+ },
+ {
+  "id": "m165",
+  "mandiId": 49,
+  "commodity": "Soybean",
+  "price": 4260,
+  "prevPrice": 4152,
+  "changePct": 2.6,
+  "trend": "up"
+ },
+ {
+  "id": "m166",
+  "mandiId": 50,
+  "commodity": "Wheat",
+  "price": 2485,
+  "prevPrice": 2518,
+  "changePct": -1.3,
+  "trend": "down"
+ },
+ {
+  "id": "m167",
+  "mandiId": 50,
+  "commodity": "Mustard",
+  "price": 5355,
+  "prevPrice": 5302,
+  "changePct": 1,
+  "trend": "up"
+ },
+ {
+  "id": "m168",
+  "mandiId": 50,
+  "commodity": "Soybean",
+  "price": 4155,
+  "prevPrice": 4042,
+  "changePct": 2.8,
+  "trend": "up"
+ },
+ {
+  "id": "m169",
+  "mandiId": 51,
+  "commodity": "Mustard",
+  "price": 5275,
+  "prevPrice": 5461,
+  "changePct": -3.4,
+  "trend": "down"
+ },
+ {
+  "id": "m170",
+  "mandiId": 51,
+  "commodity": "Wheat",
+  "price": 2260,
+  "prevPrice": 2207,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m171",
+  "mandiId": 51,
+  "commodity": "Onion",
+  "price": 2050,
+  "prevPrice": 2221,
+  "changePct": -7.7,
+  "trend": "down"
+ },
+ {
+  "id": "m172",
+  "mandiId": 52,
+  "commodity": "Mustard",
+  "price": 5830,
+  "prevPrice": 5622,
+  "changePct": 3.7,
+  "trend": "up"
+ },
+ {
+  "id": "m173",
+  "mandiId": 52,
+  "commodity": "Potato",
+  "price": 1220,
+  "prevPrice": 1245,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m174",
+  "mandiId": 52,
+  "commodity": "Wheat",
+  "price": 2440,
+  "prevPrice": 2480,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m175",
+  "mandiId": 53,
+  "commodity": "Soybean",
+  "price": 4520,
+  "prevPrice": 4471,
+  "changePct": 1.1,
+  "trend": "up"
+ },
+ {
+  "id": "m176",
+  "mandiId": 53,
+  "commodity": "Gram (Chana)",
+  "price": 5270,
+  "prevPrice": 5318,
+  "changePct": -0.9,
+  "trend": "down"
+ },
+ {
+  "id": "m177",
+  "mandiId": 53,
+  "commodity": "Onion",
+  "price": 2295,
+  "prevPrice": 2279,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m178",
+  "mandiId": 53,
+  "commodity": "Potato",
+  "price": 1265,
+  "prevPrice": 1248,
+  "changePct": 1.4,
+  "trend": "up"
+ },
+ {
+  "id": "m179",
+  "mandiId": 54,
+  "commodity": "Gram (Chana)",
+  "price": 5565,
+  "prevPrice": 5661,
+  "changePct": -1.7,
+  "trend": "down"
+ },
+ {
+  "id": "m180",
+  "mandiId": 54,
+  "commodity": "Wheat",
+  "price": 2460,
+  "prevPrice": 2414,
+  "changePct": 1.9,
+  "trend": "up"
+ },
+ {
+  "id": "m181",
+  "mandiId": 54,
+  "commodity": "Potato",
+  "price": 1275,
+  "prevPrice": 1320,
+  "changePct": -3.4,
+  "trend": "down"
+ },
+ {
+  "id": "m182",
+  "mandiId": 55,
+  "commodity": "Onion",
+  "price": 2335,
+  "prevPrice": 2199,
+  "changePct": 6.2,
+  "trend": "up"
+ },
+ {
+  "id": "m183",
+  "mandiId": 55,
+  "commodity": "Soybean",
+  "price": 4275,
+  "prevPrice": 4220,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m184",
+  "mandiId": 55,
+  "commodity": "Potato",
+  "price": 1115,
+  "prevPrice": 1131,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m185",
+  "mandiId": 56,
+  "commodity": "Onion",
+  "price": 2385,
+  "prevPrice": 2535,
+  "changePct": -5.9,
+  "trend": "down"
+ },
+ {
+  "id": "m186",
+  "mandiId": 56,
+  "commodity": "Potato",
+  "price": 1290,
+  "prevPrice": 1348,
+  "changePct": -4.3,
+  "trend": "down"
+ },
+ {
+  "id": "m187",
+  "mandiId": 57,
+  "commodity": "Mustard",
+  "price": 5355,
+  "prevPrice": 5398,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m188",
+  "mandiId": 57,
+  "commodity": "Potato",
+  "price": 1195,
+  "prevPrice": 1214,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m189",
+  "mandiId": 57,
+  "commodity": "Onion",
+  "price": 2135,
+  "prevPrice": 2172,
+  "changePct": -1.7,
+  "trend": "down"
+ },
+ {
+  "id": "m190",
+  "mandiId": 58,
+  "commodity": "Rice",
+  "price": 4155,
+  "prevPrice": 4262,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m191",
+  "mandiId": 58,
+  "commodity": "Onion",
+  "price": 2140,
+  "prevPrice": 1978,
+  "changePct": 8.2,
+  "trend": "up"
+ },
+ {
+  "id": "m192",
+  "mandiId": 58,
+  "commodity": "Mustard",
+  "price": 5375,
+  "prevPrice": 5429,
+  "changePct": -1,
+  "trend": "down"
+ },
+ {
+  "id": "m193",
+  "mandiId": 59,
+  "commodity": "Wheat",
+  "price": 2680,
+  "prevPrice": 2724,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m194",
+  "mandiId": 59,
+  "commodity": "Onion",
+  "price": 2215,
+  "prevPrice": 2100,
+  "changePct": 5.5,
+  "trend": "up"
+ },
+ {
+  "id": "m195",
+  "mandiId": 59,
+  "commodity": "Mustard",
+  "price": 5950,
+  "prevPrice": 5980,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m196",
+  "mandiId": 60,
+  "commodity": "Onion",
+  "price": 2150,
+  "prevPrice": 2192,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m197",
+  "mandiId": 60,
+  "commodity": "Rice",
+  "price": 4035,
+  "prevPrice": 3971,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m198",
+  "mandiId": 60,
+  "commodity": "Mustard",
+  "price": 6155,
+  "prevPrice": 5958,
+  "changePct": 3.3,
+  "trend": "up"
+ },
+ {
+  "id": "m199",
+  "mandiId": 60,
+  "commodity": "Wheat",
+  "price": 2620,
+  "prevPrice": 2695,
+  "changePct": -2.8,
+  "trend": "down"
+ },
+ {
+  "id": "m200",
+  "mandiId": 61,
+  "commodity": "Potato",
+  "price": 1140,
+  "prevPrice": 1145,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m201",
+  "mandiId": 61,
+  "commodity": "Mustard",
+  "price": 5555,
+  "prevPrice": 5462,
+  "changePct": 1.7,
+  "trend": "up"
+ },
+ {
+  "id": "m202",
+  "mandiId": 61,
+  "commodity": "Wheat",
+  "price": 2420,
+  "prevPrice": 2401,
+  "changePct": 0.8,
+  "trend": "up"
+ },
+ {
+  "id": "m203",
+  "mandiId": 61,
+  "commodity": "Rice",
+  "price": 4035,
+  "prevPrice": 4035,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m204",
+  "mandiId": 62,
+  "commodity": "Wheat",
+  "price": 2320,
+  "prevPrice": 2372,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m205",
+  "mandiId": 62,
+  "commodity": "Mustard",
+  "price": 5475,
+  "prevPrice": 5610,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m206",
+  "mandiId": 62,
+  "commodity": "Onion",
+  "price": 2220,
+  "prevPrice": 2137,
+  "changePct": 3.9,
+  "trend": "up"
+ },
+ {
+  "id": "m207",
+  "mandiId": 63,
+  "commodity": "Mustard",
+  "price": 5865,
+  "prevPrice": 6097,
+  "changePct": -3.8,
+  "trend": "down"
+ },
+ {
+  "id": "m208",
+  "mandiId": 63,
+  "commodity": "Rice",
+  "price": 4135,
+  "prevPrice": 4050,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m209",
+  "mandiId": 63,
+  "commodity": "Wheat",
+  "price": 2455,
+  "prevPrice": 2508,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m210",
+  "mandiId": 64,
+  "commodity": "Wheat",
+  "price": 2500,
+  "prevPrice": 2451,
+  "changePct": 2,
+  "trend": "up"
+ },
+ {
+  "id": "m211",
+  "mandiId": 64,
+  "commodity": "Rice",
+  "price": 4140,
+  "prevPrice": 4119,
+  "changePct": 0.5,
+  "trend": "up"
+ },
+ {
+  "id": "m212",
+  "mandiId": 64,
+  "commodity": "Mustard",
+  "price": 5995,
+  "prevPrice": 6187,
+  "changePct": -3.1,
+  "trend": "down"
+ },
+ {
+  "id": "m213",
+  "mandiId": 65,
+  "commodity": "Potato",
+  "price": 1300,
+  "prevPrice": 1226,
+  "changePct": 6,
+  "trend": "up"
+ },
+ {
+  "id": "m214",
+  "mandiId": 65,
+  "commodity": "Wheat",
+  "price": 2390,
+  "prevPrice": 2400,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m215",
+  "mandiId": 65,
+  "commodity": "Rice",
+  "price": 3860,
+  "prevPrice": 3919,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m216",
+  "mandiId": 65,
+  "commodity": "Onion",
+  "price": 2230,
+  "prevPrice": 2074,
+  "changePct": 7.5,
+  "trend": "up"
+ },
+ {
+  "id": "m217",
+  "mandiId": 66,
+  "commodity": "Potato",
+  "price": 1215,
+  "prevPrice": 1195,
+  "changePct": 1.7,
+  "trend": "up"
+ },
+ {
+  "id": "m218",
+  "mandiId": 66,
+  "commodity": "Mustard",
+  "price": 5670,
+  "prevPrice": 5670,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m219",
+  "mandiId": 66,
+  "commodity": "Wheat",
+  "price": 2305,
+  "prevPrice": 2321,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m220",
+  "mandiId": 67,
+  "commodity": "Rice",
+  "price": 4200,
+  "prevPrice": 4171,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m221",
+  "mandiId": 67,
+  "commodity": "Potato",
+  "price": 1255,
+  "prevPrice": 1334,
+  "changePct": -5.9,
+  "trend": "down"
+ },
+ {
+  "id": "m222",
+  "mandiId": 67,
+  "commodity": "Onion",
+  "price": 2335,
+  "prevPrice": 2326,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m223",
+  "mandiId": 67,
+  "commodity": "Wheat",
+  "price": 2650,
+  "prevPrice": 2726,
+  "changePct": -2.8,
+  "trend": "down"
+ },
+ {
+  "id": "m224",
+  "mandiId": 68,
+  "commodity": "Potato",
+  "price": 1215,
+  "prevPrice": 1202,
+  "changePct": 1.1,
+  "trend": "up"
+ },
+ {
+  "id": "m225",
+  "mandiId": 68,
+  "commodity": "Mustard",
+  "price": 5310,
+  "prevPrice": 5284,
+  "changePct": 0.5,
+  "trend": "up"
+ },
+ {
+  "id": "m226",
+  "mandiId": 68,
+  "commodity": "Wheat",
+  "price": 2375,
+  "prevPrice": 2375,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m227",
+  "mandiId": 68,
+  "commodity": "Rice",
+  "price": 3705,
+  "prevPrice": 3716,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m228",
+  "mandiId": 69,
+  "commodity": "Onion",
+  "price": 2210,
+  "prevPrice": 2067,
+  "changePct": 6.9,
+  "trend": "up"
+ },
+ {
+  "id": "m229",
+  "mandiId": 69,
+  "commodity": "Wheat",
+  "price": 2615,
+  "prevPrice": 2561,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m230",
+  "mandiId": 69,
+  "commodity": "Mustard",
+  "price": 5735,
+  "prevPrice": 5552,
+  "changePct": 3.3,
+  "trend": "up"
+ },
+ {
+  "id": "m231",
+  "mandiId": 70,
+  "commodity": "Onion",
+  "price": 2170,
+  "prevPrice": 2275,
+  "changePct": -4.6,
+  "trend": "down"
+ },
+ {
+  "id": "m232",
+  "mandiId": 70,
+  "commodity": "Rice",
+  "price": 3875,
+  "prevPrice": 3788,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m233",
+  "mandiId": 70,
+  "commodity": "Potato",
+  "price": 1265,
+  "prevPrice": 1221,
+  "changePct": 3.6,
+  "trend": "up"
+ },
+ {
+  "id": "m234",
+  "mandiId": 70,
+  "commodity": "Mustard",
+  "price": 5680,
+  "prevPrice": 5652,
+  "changePct": 0.5,
+  "trend": "up"
+ },
+ {
+  "id": "m235",
+  "mandiId": 71,
+  "commodity": "Wheat",
+  "price": 2520,
+  "prevPrice": 2535,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m236",
+  "mandiId": 71,
+  "commodity": "Potato",
+  "price": 1230,
+  "prevPrice": 1293,
+  "changePct": -4.9,
+  "trend": "down"
+ },
+ {
+  "id": "m237",
+  "mandiId": 71,
+  "commodity": "Rice",
+  "price": 4100,
+  "prevPrice": 4179,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m238",
+  "mandiId": 72,
+  "commodity": "Wheat",
+  "price": 2495,
+  "prevPrice": 2478,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m239",
+  "mandiId": 72,
+  "commodity": "Onion",
+  "price": 2215,
+  "prevPrice": 2059,
+  "changePct": 7.6,
+  "trend": "up"
+ },
+ {
+  "id": "m240",
+  "mandiId": 72,
+  "commodity": "Rice",
+  "price": 3815,
+  "prevPrice": 3873,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m241",
+  "mandiId": 72,
+  "commodity": "Potato",
+  "price": 1270,
+  "prevPrice": 1270,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m242",
+  "mandiId": 73,
+  "commodity": "Wheat",
+  "price": 2315,
+  "prevPrice": 2279,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m243",
+  "mandiId": 73,
+  "commodity": "Onion",
+  "price": 2195,
+  "prevPrice": 2102,
+  "changePct": 4.4,
+  "trend": "up"
+ },
+ {
+  "id": "m244",
+  "mandiId": 73,
+  "commodity": "Mustard",
+  "price": 5830,
+  "prevPrice": 5677,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m245",
+  "mandiId": 73,
+  "commodity": "Rice",
+  "price": 4045,
+  "prevPrice": 4082,
+  "changePct": -0.9,
+  "trend": "down"
+ },
+ {
+  "id": "m246",
+  "mandiId": 74,
+  "commodity": "Potato",
+  "price": 1240,
+  "prevPrice": 1199,
+  "changePct": 3.4,
+  "trend": "up"
+ },
+ {
+  "id": "m247",
+  "mandiId": 74,
+  "commodity": "Rice",
+  "price": 4330,
+  "prevPrice": 4233,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m248",
+  "mandiId": 74,
+  "commodity": "Wheat",
+  "price": 2510,
+  "prevPrice": 2449,
+  "changePct": 2.5,
+  "trend": "up"
+ },
+ {
+  "id": "m249",
+  "mandiId": 75,
+  "commodity": "Onion",
+  "price": 2385,
+  "prevPrice": 2565,
+  "changePct": -7,
+  "trend": "down"
+ },
+ {
+  "id": "m250",
+  "mandiId": 75,
+  "commodity": "Mustard",
+  "price": 5835,
+  "prevPrice": 5978,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m251",
+  "mandiId": 75,
+  "commodity": "Wheat",
+  "price": 2680,
+  "prevPrice": 2651,
+  "changePct": 1.1,
+  "trend": "up"
+ },
+ {
+  "id": "m252",
+  "mandiId": 75,
+  "commodity": "Potato",
+  "price": 1180,
+  "prevPrice": 1245,
+  "changePct": -5.2,
+  "trend": "down"
+ },
+ {
+  "id": "m253",
+  "mandiId": 76,
+  "commodity": "Soybean",
+  "price": 4705,
+  "prevPrice": 4586,
+  "changePct": 2.6,
+  "trend": "up"
+ },
+ {
+  "id": "m254",
+  "mandiId": 76,
+  "commodity": "Wheat",
+  "price": 2575,
+  "prevPrice": 2593,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m255",
+  "mandiId": 77,
+  "commodity": "Gram (Chana)",
+  "price": 5090,
+  "prevPrice": 5162,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m256",
+  "mandiId": 77,
+  "commodity": "Soybean",
+  "price": 4185,
+  "prevPrice": 4160,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m257",
+  "mandiId": 77,
+  "commodity": "Mustard",
+  "price": 5860,
+  "prevPrice": 5931,
+  "changePct": -1.2,
+  "trend": "down"
+ },
+ {
+  "id": "m258",
+  "mandiId": 78,
+  "commodity": "Mustard",
+  "price": 5180,
+  "prevPrice": 5144,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m259",
+  "mandiId": 78,
+  "commodity": "Wheat",
+  "price": 2390,
+  "prevPrice": 2323,
+  "changePct": 2.9,
+  "trend": "up"
+ },
+ {
+  "id": "m260",
+  "mandiId": 78,
+  "commodity": "Soybean",
+  "price": 4530,
+  "prevPrice": 4424,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m261",
+  "mandiId": 79,
+  "commodity": "Onion",
+  "price": 2050,
+  "prevPrice": 2207,
+  "changePct": -7.1,
+  "trend": "down"
+ },
+ {
+  "id": "m262",
+  "mandiId": 79,
+  "commodity": "Gram (Chana)",
+  "price": 4965,
+  "prevPrice": 4839,
+  "changePct": 2.6,
+  "trend": "up"
+ },
+ {
+  "id": "m263",
+  "mandiId": 79,
+  "commodity": "Wheat",
+  "price": 2415,
+  "prevPrice": 2462,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m264",
+  "mandiId": 79,
+  "commodity": "Soybean",
+  "price": 4815,
+  "prevPrice": 4753,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m265",
+  "mandiId": 80,
+  "commodity": "Wheat",
+  "price": 2300,
+  "prevPrice": 2326,
+  "changePct": -1.1,
+  "trend": "down"
+ },
+ {
+  "id": "m266",
+  "mandiId": 80,
+  "commodity": "Onion",
+  "price": 2305,
+  "prevPrice": 2136,
+  "changePct": 7.9,
+  "trend": "up"
+ },
+ {
+  "id": "m267",
+  "mandiId": 80,
+  "commodity": "Mustard",
+  "price": 5450,
+  "prevPrice": 5281,
+  "changePct": 3.2,
+  "trend": "up"
+ },
+ {
+  "id": "m268",
+  "mandiId": 80,
+  "commodity": "Gram (Chana)",
+  "price": 5715,
+  "prevPrice": 5755,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m269",
+  "mandiId": 81,
+  "commodity": "Gram (Chana)",
+  "price": 5680,
+  "prevPrice": 5569,
+  "changePct": 2,
+  "trend": "up"
+ },
+ {
+  "id": "m270",
+  "mandiId": 81,
+  "commodity": "Mustard",
+  "price": 5550,
+  "prevPrice": 5692,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m271",
+  "mandiId": 81,
+  "commodity": "Soybean",
+  "price": 4485,
+  "prevPrice": 4485,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m272",
+  "mandiId": 82,
+  "commodity": "Wheat",
+  "price": 2265,
+  "prevPrice": 2205,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m273",
+  "mandiId": 82,
+  "commodity": "Gram (Chana)",
+  "price": 5585,
+  "prevPrice": 5502,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m274",
+  "mandiId": 82,
+  "commodity": "Onion",
+  "price": 2195,
+  "prevPrice": 2256,
+  "changePct": -2.7,
+  "trend": "down"
+ },
+ {
+  "id": "m275",
+  "mandiId": 83,
+  "commodity": "Mustard",
+  "price": 5990,
+  "prevPrice": 5896,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m276",
+  "mandiId": 83,
+  "commodity": "Onion",
+  "price": 2115,
+  "prevPrice": 2160,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m277",
+  "mandiId": 83,
+  "commodity": "Soybean",
+  "price": 4315,
+  "prevPrice": 4439,
+  "changePct": -2.8,
+  "trend": "down"
+ },
+ {
+  "id": "m278",
+  "mandiId": 84,
+  "commodity": "Soybean",
+  "price": 4270,
+  "prevPrice": 4357,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m279",
+  "mandiId": 84,
+  "commodity": "Wheat",
+  "price": 2415,
+  "prevPrice": 2430,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m280",
+  "mandiId": 84,
+  "commodity": "Gram (Chana)",
+  "price": 5480,
+  "prevPrice": 5336,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m281",
+  "mandiId": 85,
+  "commodity": "Wheat",
+  "price": 2295,
+  "prevPrice": 2259,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m282",
+  "mandiId": 85,
+  "commodity": "Gram (Chana)",
+  "price": 5180,
+  "prevPrice": 5259,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m283",
+  "mandiId": 85,
+  "commodity": "Mustard",
+  "price": 5845,
+  "prevPrice": 5753,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m284",
+  "mandiId": 85,
+  "commodity": "Soybean",
+  "price": 4370,
+  "prevPrice": 4353,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m285",
+  "mandiId": 86,
+  "commodity": "Mustard",
+  "price": 5710,
+  "prevPrice": 5832,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m286",
+  "mandiId": 86,
+  "commodity": "Soybean",
+  "price": 4210,
+  "prevPrice": 4287,
+  "changePct": -1.8,
+  "trend": "down"
+ },
+ {
+  "id": "m287",
+  "mandiId": 86,
+  "commodity": "Onion",
+  "price": 2045,
+  "prevPrice": 2218,
+  "changePct": -7.8,
+  "trend": "down"
+ },
+ {
+  "id": "m288",
+  "mandiId": 87,
+  "commodity": "Mustard",
+  "price": 5240,
+  "prevPrice": 5320,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m289",
+  "mandiId": 87,
+  "commodity": "Onion",
+  "price": 2115,
+  "prevPrice": 2005,
+  "changePct": 5.5,
+  "trend": "up"
+ },
+ {
+  "id": "m290",
+  "mandiId": 87,
+  "commodity": "Gram (Chana)",
+  "price": 5050,
+  "prevPrice": 4932,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m291",
+  "mandiId": 88,
+  "commodity": "Wheat",
+  "price": 2290,
+  "prevPrice": 2320,
+  "changePct": -1.3,
+  "trend": "down"
+ },
+ {
+  "id": "m292",
+  "mandiId": 88,
+  "commodity": "Gram (Chana)",
+  "price": 5295,
+  "prevPrice": 5343,
+  "changePct": -0.9,
+  "trend": "down"
+ },
+ {
+  "id": "m293",
+  "mandiId": 88,
+  "commodity": "Soybean",
+  "price": 4470,
+  "prevPrice": 4594,
+  "changePct": -2.7,
+  "trend": "down"
+ },
+ {
+  "id": "m294",
+  "mandiId": 89,
+  "commodity": "Soybean",
+  "price": 4770,
+  "prevPrice": 4713,
+  "changePct": 1.2,
+  "trend": "up"
+ },
+ {
+  "id": "m295",
+  "mandiId": 89,
+  "commodity": "Mustard",
+  "price": 5800,
+  "prevPrice": 5859,
+  "changePct": -1,
+  "trend": "down"
+ },
+ {
+  "id": "m296",
+  "mandiId": 89,
+  "commodity": "Wheat",
+  "price": 2355,
+  "prevPrice": 2355,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m297",
+  "mandiId": 89,
+  "commodity": "Onion",
+  "price": 2070,
+  "prevPrice": 2085,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m298",
+  "mandiId": 90,
+  "commodity": "Soybean",
+  "price": 4290,
+  "prevPrice": 4273,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m299",
+  "mandiId": 90,
+  "commodity": "Onion",
+  "price": 2145,
+  "prevPrice": 2284,
+  "changePct": -6.1,
+  "trend": "down"
+ },
+ {
+  "id": "m300",
+  "mandiId": 90,
+  "commodity": "Mustard",
+  "price": 5300,
+  "prevPrice": 5146,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m301",
+  "mandiId": 90,
+  "commodity": "Wheat",
+  "price": 2510,
+  "prevPrice": 2454,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m302",
+  "mandiId": 91,
+  "commodity": "Gram (Chana)",
+  "price": 5530,
+  "prevPrice": 5649,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m303",
+  "mandiId": 91,
+  "commodity": "Onion",
+  "price": 2340,
+  "prevPrice": 2474,
+  "changePct": -5.4,
+  "trend": "down"
+ },
+ {
+  "id": "m304",
+  "mandiId": 91,
+  "commodity": "Mustard",
+  "price": 5300,
+  "prevPrice": 5201,
+  "changePct": 1.9,
+  "trend": "up"
+ },
+ {
+  "id": "m305",
+  "mandiId": 92,
+  "commodity": "Mustard",
+  "price": 5680,
+  "prevPrice": 5880,
+  "changePct": -3.4,
+  "trend": "down"
+ },
+ {
+  "id": "m306",
+  "mandiId": 92,
+  "commodity": "Onion",
+  "price": 2250,
+  "prevPrice": 2250,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m307",
+  "mandiId": 92,
+  "commodity": "Soybean",
+  "price": 4595,
+  "prevPrice": 4708,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m308",
+  "mandiId": 92,
+  "commodity": "Wheat",
+  "price": 2250,
+  "prevPrice": 2193,
+  "changePct": 2.6,
+  "trend": "up"
+ },
+ {
+  "id": "m309",
+  "mandiId": 93,
+  "commodity": "Wheat",
+  "price": 2605,
+  "prevPrice": 2666,
+  "changePct": -2.3,
+  "trend": "down"
+ },
+ {
+  "id": "m310",
+  "mandiId": 93,
+  "commodity": "Soybean",
+  "price": 4215,
+  "prevPrice": 4190,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m311",
+  "mandiId": 93,
+  "commodity": "Onion",
+  "price": 2170,
+  "prevPrice": 2142,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m312",
+  "mandiId": 93,
+  "commodity": "Gram (Chana)",
+  "price": 5270,
+  "prevPrice": 5131,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m313",
+  "mandiId": 94,
+  "commodity": "Onion",
+  "price": 2280,
+  "prevPrice": 2312,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m314",
+  "mandiId": 94,
+  "commodity": "Gram (Chana)",
+  "price": 5615,
+  "prevPrice": 5494,
+  "changePct": 2.2,
+  "trend": "up"
+ },
+ {
+  "id": "m315",
+  "mandiId": 94,
+  "commodity": "Wheat",
+  "price": 2320,
+  "prevPrice": 2365,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m316",
+  "mandiId": 95,
+  "commodity": "Soybean",
+  "price": 4170,
+  "prevPrice": 4234,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m317",
+  "mandiId": 95,
+  "commodity": "Gram (Chana)",
+  "price": 5415,
+  "prevPrice": 5304,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m318",
+  "mandiId": 95,
+  "commodity": "Mustard",
+  "price": 5640,
+  "prevPrice": 5875,
+  "changePct": -4,
+  "trend": "down"
+ },
+ {
+  "id": "m319",
+  "mandiId": 96,
+  "commodity": "Soybean",
+  "price": 4305,
+  "prevPrice": 4204,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m320",
+  "mandiId": 96,
+  "commodity": "Onion",
+  "price": 2225,
+  "prevPrice": 2160,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m321",
+  "mandiId": 96,
+  "commodity": "Gram (Chana)",
+  "price": 4905,
+  "prevPrice": 4970,
+  "changePct": -1.3,
+  "trend": "down"
+ },
+ {
+  "id": "m322",
+  "mandiId": 97,
+  "commodity": "Wheat",
+  "price": 2555,
+  "prevPrice": 2610,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m323",
+  "mandiId": 97,
+  "commodity": "Soybean",
+  "price": 4455,
+  "prevPrice": 4389,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m324",
+  "mandiId": 97,
+  "commodity": "Mustard",
+  "price": 5565,
+  "prevPrice": 5398,
+  "changePct": 3.1,
+  "trend": "up"
+ },
+ {
+  "id": "m325",
+  "mandiId": 98,
+  "commodity": "Potato",
+  "price": 1155,
+  "prevPrice": 1224,
+  "changePct": -5.6,
+  "trend": "down"
+ },
+ {
+  "id": "m326",
+  "mandiId": 98,
+  "commodity": "Tomato",
+  "price": 1580,
+  "prevPrice": 1808,
+  "changePct": -12.6,
+  "trend": "down"
+ },
+ {
+  "id": "m327",
+  "mandiId": 98,
+  "commodity": "Soybean",
+  "price": 4930,
+  "prevPrice": 4876,
+  "changePct": 1.1,
+  "trend": "up"
+ },
+ {
+  "id": "m328",
+  "mandiId": 99,
+  "commodity": "Onion",
+  "price": 2340,
+  "prevPrice": 2405,
+  "changePct": -2.7,
+  "trend": "down"
+ },
+ {
+  "id": "m329",
+  "mandiId": 99,
+  "commodity": "Gram (Chana)",
+  "price": 5155,
+  "prevPrice": 5155,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m330",
+  "mandiId": 99,
+  "commodity": "Soybean",
+  "price": 4405,
+  "prevPrice": 4314,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m331",
+  "mandiId": 100,
+  "commodity": "Tomato",
+  "price": 1615,
+  "prevPrice": 1615,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m332",
+  "mandiId": 100,
+  "commodity": "Wheat",
+  "price": 2390,
+  "prevPrice": 2323,
+  "changePct": 2.9,
+  "trend": "up"
+ },
+ {
+  "id": "m333",
+  "mandiId": 100,
+  "commodity": "Gram (Chana)",
+  "price": 5255,
+  "prevPrice": 5137,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m334",
+  "mandiId": 101,
+  "commodity": "Potato",
+  "price": 1135,
+  "prevPrice": 1171,
+  "changePct": -3.1,
+  "trend": "down"
+ },
+ {
+  "id": "m335",
+  "mandiId": 101,
+  "commodity": "Soybean",
+  "price": 4540,
+  "prevPrice": 4540,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m336",
+  "mandiId": 101,
+  "commodity": "Tomato",
+  "price": 1690,
+  "prevPrice": 1663,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m337",
+  "mandiId": 102,
+  "commodity": "Potato",
+  "price": 1215,
+  "prevPrice": 1144,
+  "changePct": 6.2,
+  "trend": "up"
+ },
+ {
+  "id": "m338",
+  "mandiId": 102,
+  "commodity": "Soybean",
+  "price": 4890,
+  "prevPrice": 4905,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m339",
+  "mandiId": 102,
+  "commodity": "Wheat",
+  "price": 2535,
+  "prevPrice": 2571,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m340",
+  "mandiId": 103,
+  "commodity": "Gram (Chana)",
+  "price": 5345,
+  "prevPrice": 5324,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m341",
+  "mandiId": 103,
+  "commodity": "Potato",
+  "price": 1240,
+  "prevPrice": 1308,
+  "changePct": -5.2,
+  "trend": "down"
+ },
+ {
+  "id": "m342",
+  "mandiId": 103,
+  "commodity": "Soybean",
+  "price": 4480,
+  "prevPrice": 4379,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m343",
+  "mandiId": 104,
+  "commodity": "Gram (Chana)",
+  "price": 5510,
+  "prevPrice": 5583,
+  "changePct": -1.3,
+  "trend": "down"
+ },
+ {
+  "id": "m344",
+  "mandiId": 104,
+  "commodity": "Tomato",
+  "price": 1660,
+  "prevPrice": 1533,
+  "changePct": 8.3,
+  "trend": "up"
+ },
+ {
+  "id": "m345",
+  "mandiId": 104,
+  "commodity": "Potato",
+  "price": 1275,
+  "prevPrice": 1261,
+  "changePct": 1.1,
+  "trend": "up"
+ },
+ {
+  "id": "m346",
+  "mandiId": 104,
+  "commodity": "Onion",
+  "price": 2420,
+  "prevPrice": 2410,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m347",
+  "mandiId": 105,
+  "commodity": "Onion",
+  "price": 2180,
+  "prevPrice": 2096,
+  "changePct": 4,
+  "trend": "up"
+ },
+ {
+  "id": "m348",
+  "mandiId": 105,
+  "commodity": "Potato",
+  "price": 1170,
+  "prevPrice": 1163,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m349",
+  "mandiId": 105,
+  "commodity": "Gram (Chana)",
+  "price": 5285,
+  "prevPrice": 5432,
+  "changePct": -2.7,
+  "trend": "down"
+ },
+ {
+  "id": "m350",
+  "mandiId": 106,
+  "commodity": "Tomato",
+  "price": 1750,
+  "prevPrice": 1585,
+  "changePct": 10.4,
+  "trend": "up"
+ },
+ {
+  "id": "m351",
+  "mandiId": 106,
+  "commodity": "Soybean",
+  "price": 4840,
+  "prevPrice": 4964,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m352",
+  "mandiId": 106,
+  "commodity": "Potato",
+  "price": 1150,
+  "prevPrice": 1230,
+  "changePct": -6.5,
+  "trend": "down"
+ },
+ {
+  "id": "m353",
+  "mandiId": 107,
+  "commodity": "Wheat",
+  "price": 2440,
+  "prevPrice": 2503,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m354",
+  "mandiId": 107,
+  "commodity": "Potato",
+  "price": 1195,
+  "prevPrice": 1126,
+  "changePct": 6.1,
+  "trend": "up"
+ },
+ {
+  "id": "m355",
+  "mandiId": 107,
+  "commodity": "Soybean",
+  "price": 4625,
+  "prevPrice": 4530,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m356",
+  "mandiId": 108,
+  "commodity": "Onion",
+  "price": 2235,
+  "prevPrice": 2283,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m357",
+  "mandiId": 108,
+  "commodity": "Potato",
+  "price": 1280,
+  "prevPrice": 1249,
+  "changePct": 2.5,
+  "trend": "up"
+ },
+ {
+  "id": "m358",
+  "mandiId": 108,
+  "commodity": "Wheat",
+  "price": 2605,
+  "prevPrice": 2661,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m359",
+  "mandiId": 109,
+  "commodity": "Wheat",
+  "price": 2450,
+  "prevPrice": 2470,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m360",
+  "mandiId": 109,
+  "commodity": "Potato",
+  "price": 1160,
+  "prevPrice": 1110,
+  "changePct": 4.5,
+  "trend": "up"
+ },
+ {
+  "id": "m361",
+  "mandiId": 109,
+  "commodity": "Gram (Chana)",
+  "price": 5375,
+  "prevPrice": 5541,
+  "changePct": -3,
+  "trend": "down"
+ },
+ {
+  "id": "m362",
+  "mandiId": 109,
+  "commodity": "Onion",
+  "price": 2075,
+  "prevPrice": 2196,
+  "changePct": -5.5,
+  "trend": "down"
+ },
+ {
+  "id": "m363",
+  "mandiId": 110,
+  "commodity": "Onion",
+  "price": 2330,
+  "prevPrice": 2188,
+  "changePct": 6.5,
+  "trend": "up"
+ },
+ {
+  "id": "m364",
+  "mandiId": 110,
+  "commodity": "Wheat",
+  "price": 2380,
+  "prevPrice": 2397,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m365",
+  "mandiId": 110,
+  "commodity": "Tomato",
+  "price": 1675,
+  "prevPrice": 1591,
+  "changePct": 5.3,
+  "trend": "up"
+ },
+ {
+  "id": "m366",
+  "mandiId": 110,
+  "commodity": "Potato",
+  "price": 1230,
+  "prevPrice": 1245,
+  "changePct": -1.2,
+  "trend": "down"
+ },
+ {
+  "id": "m367",
+  "mandiId": 111,
+  "commodity": "Wheat",
+  "price": 2580,
+  "prevPrice": 2510,
+  "changePct": 2.8,
+  "trend": "up"
+ },
+ {
+  "id": "m368",
+  "mandiId": 111,
+  "commodity": "Gram (Chana)",
+  "price": 5475,
+  "prevPrice": 5442,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m369",
+  "mandiId": 111,
+  "commodity": "Tomato",
+  "price": 1515,
+  "prevPrice": 1659,
+  "changePct": -8.7,
+  "trend": "down"
+ },
+ {
+  "id": "m370",
+  "mandiId": 112,
+  "commodity": "Gram (Chana)",
+  "price": 5825,
+  "prevPrice": 5956,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m371",
+  "mandiId": 112,
+  "commodity": "Soybean",
+  "price": 4885,
+  "prevPrice": 4995,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m372",
+  "mandiId": 112,
+  "commodity": "Onion",
+  "price": 2275,
+  "prevPrice": 2470,
+  "changePct": -7.9,
+  "trend": "down"
+ },
+ {
+  "id": "m373",
+  "mandiId": 113,
+  "commodity": "Soybean",
+  "price": 4340,
+  "prevPrice": 4438,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m374",
+  "mandiId": 113,
+  "commodity": "Onion",
+  "price": 2210,
+  "prevPrice": 2304,
+  "changePct": -4.1,
+  "trend": "down"
+ },
+ {
+  "id": "m375",
+  "mandiId": 113,
+  "commodity": "Gram (Chana)",
+  "price": 5780,
+  "prevPrice": 5910,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m376",
+  "mandiId": 114,
+  "commodity": "Potato",
+  "price": 1175,
+  "prevPrice": 1257,
+  "changePct": -6.5,
+  "trend": "down"
+ },
+ {
+  "id": "m377",
+  "mandiId": 114,
+  "commodity": "Onion",
+  "price": 2380,
+  "prevPrice": 2532,
+  "changePct": -6,
+  "trend": "down"
+ },
+ {
+  "id": "m378",
+  "mandiId": 114,
+  "commodity": "Tomato",
+  "price": 1540,
+  "prevPrice": 1647,
+  "changePct": -6.5,
+  "trend": "down"
+ },
+ {
+  "id": "m379",
+  "mandiId": 115,
+  "commodity": "Onion",
+  "price": 2210,
+  "prevPrice": 2095,
+  "changePct": 5.5,
+  "trend": "up"
+ },
+ {
+  "id": "m380",
+  "mandiId": 115,
+  "commodity": "Soybean",
+  "price": 4820,
+  "prevPrice": 4689,
+  "changePct": 2.8,
+  "trend": "up"
+ },
+ {
+  "id": "m381",
+  "mandiId": 115,
+  "commodity": "Potato",
+  "price": 1245,
+  "prevPrice": 1218,
+  "changePct": 2.2,
+  "trend": "up"
+ },
+ {
+  "id": "m382",
+  "mandiId": 115,
+  "commodity": "Tomato",
+  "price": 1510,
+  "prevPrice": 1489,
+  "changePct": 1.4,
+  "trend": "up"
+ },
+ {
+  "id": "m383",
+  "mandiId": 116,
+  "commodity": "Onion",
+  "price": 2215,
+  "prevPrice": 2242,
+  "changePct": -1.2,
+  "trend": "down"
+ },
+ {
+  "id": "m384",
+  "mandiId": 116,
+  "commodity": "Wheat",
+  "price": 2645,
+  "prevPrice": 2685,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m385",
+  "mandiId": 116,
+  "commodity": "Soybean",
+  "price": 4705,
+  "prevPrice": 4719,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m386",
+  "mandiId": 117,
+  "commodity": "Potato",
+  "price": 1235,
+  "prevPrice": 1214,
+  "changePct": 1.7,
+  "trend": "up"
+ },
+ {
+  "id": "m387",
+  "mandiId": 117,
+  "commodity": "Wheat",
+  "price": 2380,
+  "prevPrice": 2380,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m388",
+  "mandiId": 117,
+  "commodity": "Gram (Chana)",
+  "price": 5570,
+  "prevPrice": 5713,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m389",
+  "mandiId": 117,
+  "commodity": "Onion",
+  "price": 2235,
+  "prevPrice": 2089,
+  "changePct": 7,
+  "trend": "up"
+ },
+ {
+  "id": "m390",
+  "mandiId": 118,
+  "commodity": "Tomato",
+  "price": 1645,
+  "prevPrice": 1836,
+  "changePct": -10.4,
+  "trend": "down"
+ },
+ {
+  "id": "m391",
+  "mandiId": 118,
+  "commodity": "Potato",
+  "price": 1125,
+  "prevPrice": 1102,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m392",
+  "mandiId": 118,
+  "commodity": "Soybean",
+  "price": 4945,
+  "prevPrice": 5072,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m393",
+  "mandiId": 119,
+  "commodity": "Tomato",
+  "price": 1605,
+  "prevPrice": 1799,
+  "changePct": -10.8,
+  "trend": "down"
+ },
+ {
+  "id": "m394",
+  "mandiId": 119,
+  "commodity": "Onion",
+  "price": 2200,
+  "prevPrice": 2085,
+  "changePct": 5.5,
+  "trend": "up"
+ },
+ {
+  "id": "m395",
+  "mandiId": 119,
+  "commodity": "Gram (Chana)",
+  "price": 5320,
+  "prevPrice": 5358,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m396",
+  "mandiId": 119,
+  "commodity": "Potato",
+  "price": 1275,
+  "prevPrice": 1231,
+  "changePct": 3.6,
+  "trend": "up"
+ },
+ {
+  "id": "m397",
+  "mandiId": 120,
+  "commodity": "Gram (Chana)",
+  "price": 5625,
+  "prevPrice": 5693,
+  "changePct": -1.2,
+  "trend": "down"
+ },
+ {
+  "id": "m398",
+  "mandiId": 120,
+  "commodity": "Tomato",
+  "price": 1540,
+  "prevPrice": 1445,
+  "changePct": 6.6,
+  "trend": "up"
+ },
+ {
+  "id": "m399",
+  "mandiId": 120,
+  "commodity": "Soybean",
+  "price": 4525,
+  "prevPrice": 4622,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m400",
+  "mandiId": 121,
+  "commodity": "Wheat",
+  "price": 2415,
+  "prevPrice": 2415,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m401",
+  "mandiId": 121,
+  "commodity": "Potato",
+  "price": 1220,
+  "prevPrice": 1152,
+  "changePct": 5.9,
+  "trend": "up"
+ },
+ {
+  "id": "m402",
+  "mandiId": 121,
+  "commodity": "Tomato",
+  "price": 1630,
+  "prevPrice": 1545,
+  "changePct": 5.5,
+  "trend": "up"
+ },
+ {
+  "id": "m403",
+  "mandiId": 121,
+  "commodity": "Gram (Chana)",
+  "price": 5730,
+  "prevPrice": 5673,
+  "changePct": 1,
+  "trend": "up"
+ },
+ {
+  "id": "m404",
+  "mandiId": 122,
+  "commodity": "Tomato",
+  "price": 1655,
+  "prevPrice": 1534,
+  "changePct": 7.9,
+  "trend": "up"
+ },
+ {
+  "id": "m405",
+  "mandiId": 122,
+  "commodity": "Gram (Chana)",
+  "price": 5625,
+  "prevPrice": 5553,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m406",
+  "mandiId": 122,
+  "commodity": "Onion",
+  "price": 2220,
+  "prevPrice": 2395,
+  "changePct": -7.3,
+  "trend": "down"
+ },
+ {
+  "id": "m407",
+  "mandiId": 123,
+  "commodity": "Rice",
+  "price": 3755,
+  "prevPrice": 3816,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m408",
+  "mandiId": 123,
+  "commodity": "Wheat",
+  "price": 2205,
+  "prevPrice": 2188,
+  "changePct": 0.8,
+  "trend": "up"
+ },
+ {
+  "id": "m409",
+  "mandiId": 124,
+  "commodity": "Wheat",
+  "price": 2155,
+  "prevPrice": 2136,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m410",
+  "mandiId": 124,
+  "commodity": "Gram (Chana)",
+  "price": 4805,
+  "prevPrice": 4954,
+  "changePct": -3,
+  "trend": "down"
+ },
+ {
+  "id": "m411",
+  "mandiId": 124,
+  "commodity": "Potato",
+  "price": 1190,
+  "prevPrice": 1143,
+  "changePct": 4.1,
+  "trend": "up"
+ },
+ {
+  "id": "m412",
+  "mandiId": 124,
+  "commodity": "Onion",
+  "price": 2230,
+  "prevPrice": 2116,
+  "changePct": 5.4,
+  "trend": "up"
+ },
+ {
+  "id": "m413",
+  "mandiId": 125,
+  "commodity": "Onion",
+  "price": 1960,
+  "prevPrice": 2000,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m414",
+  "mandiId": 125,
+  "commodity": "Tomato",
+  "price": 1645,
+  "prevPrice": 1573,
+  "changePct": 4.6,
+  "trend": "up"
+ },
+ {
+  "id": "m415",
+  "mandiId": 125,
+  "commodity": "Wheat",
+  "price": 2350,
+  "prevPrice": 2396,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m416",
+  "mandiId": 125,
+  "commodity": "Rice",
+  "price": 3760,
+  "prevPrice": 3734,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m417",
+  "mandiId": 126,
+  "commodity": "Onion",
+  "price": 1970,
+  "prevPrice": 2127,
+  "changePct": -7.4,
+  "trend": "down"
+ },
+ {
+  "id": "m418",
+  "mandiId": 126,
+  "commodity": "Wheat",
+  "price": 2225,
+  "prevPrice": 2225,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m419",
+  "mandiId": 126,
+  "commodity": "Gram (Chana)",
+  "price": 5305,
+  "prevPrice": 5419,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m420",
+  "mandiId": 127,
+  "commodity": "Onion",
+  "price": 2155,
+  "prevPrice": 2018,
+  "changePct": 6.8,
+  "trend": "up"
+ },
+ {
+  "id": "m421",
+  "mandiId": 127,
+  "commodity": "Rice",
+  "price": 3695,
+  "prevPrice": 3623,
+  "changePct": 2,
+  "trend": "up"
+ },
+ {
+  "id": "m422",
+  "mandiId": 127,
+  "commodity": "Wheat",
+  "price": 2145,
+  "prevPrice": 2154,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m423",
+  "mandiId": 128,
+  "commodity": "Potato",
+  "price": 1230,
+  "prevPrice": 1288,
+  "changePct": -4.5,
+  "trend": "down"
+ },
+ {
+  "id": "m424",
+  "mandiId": 128,
+  "commodity": "Onion",
+  "price": 2205,
+  "prevPrice": 2038,
+  "changePct": 8.2,
+  "trend": "up"
+ },
+ {
+  "id": "m425",
+  "mandiId": 128,
+  "commodity": "Gram (Chana)",
+  "price": 4915,
+  "prevPrice": 4772,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m426",
+  "mandiId": 129,
+  "commodity": "Gram (Chana)",
+  "price": 4950,
+  "prevPrice": 4886,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m427",
+  "mandiId": 129,
+  "commodity": "Onion",
+  "price": 2190,
+  "prevPrice": 2096,
+  "changePct": 4.5,
+  "trend": "up"
+ },
+ {
+  "id": "m428",
+  "mandiId": 129,
+  "commodity": "Potato",
+  "price": 1125,
+  "prevPrice": 1187,
+  "changePct": -5.2,
+  "trend": "down"
+ },
+ {
+  "id": "m429",
+  "mandiId": 130,
+  "commodity": "Tomato",
+  "price": 1490,
+  "prevPrice": 1321,
+  "changePct": 12.8,
+  "trend": "up"
+ },
+ {
+  "id": "m430",
+  "mandiId": 130,
+  "commodity": "Wheat",
+  "price": 2325,
+  "prevPrice": 2394,
+  "changePct": -2.9,
+  "trend": "down"
+ },
+ {
+  "id": "m431",
+  "mandiId": 130,
+  "commodity": "Gram (Chana)",
+  "price": 5050,
+  "prevPrice": 5005,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m432",
+  "mandiId": 130,
+  "commodity": "Potato",
+  "price": 1115,
+  "prevPrice": 1115,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m433",
+  "mandiId": 131,
+  "commodity": "Potato",
+  "price": 1125,
+  "prevPrice": 1162,
+  "changePct": -3.2,
+  "trend": "down"
+ },
+ {
+  "id": "m434",
+  "mandiId": 131,
+  "commodity": "Gram (Chana)",
+  "price": 4840,
+  "prevPrice": 4909,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m435",
+  "mandiId": 131,
+  "commodity": "Rice",
+  "price": 3715,
+  "prevPrice": 3635,
+  "changePct": 2.2,
+  "trend": "up"
+ },
+ {
+  "id": "m436",
+  "mandiId": 132,
+  "commodity": "Gram (Chana)",
+  "price": 4775,
+  "prevPrice": 4761,
+  "changePct": 0.3,
+  "trend": "up"
+ },
+ {
+  "id": "m437",
+  "mandiId": 132,
+  "commodity": "Rice",
+  "price": 3700,
+  "prevPrice": 3791,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m438",
+  "mandiId": 132,
+  "commodity": "Onion",
+  "price": 2205,
+  "prevPrice": 2379,
+  "changePct": -7.3,
+  "trend": "down"
+ },
+ {
+  "id": "m439",
+  "mandiId": 133,
+  "commodity": "Potato",
+  "price": 1240,
+  "prevPrice": 1267,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m440",
+  "mandiId": 133,
+  "commodity": "Tomato",
+  "price": 1610,
+  "prevPrice": 1650,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m441",
+  "mandiId": 133,
+  "commodity": "Wheat",
+  "price": 2495,
+  "prevPrice": 2549,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m442",
+  "mandiId": 134,
+  "commodity": "Gram (Chana)",
+  "price": 4805,
+  "prevPrice": 4883,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m443",
+  "mandiId": 134,
+  "commodity": "Rice",
+  "price": 3905,
+  "prevPrice": 3855,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m444",
+  "mandiId": 134,
+  "commodity": "Wheat",
+  "price": 2510,
+  "prevPrice": 2439,
+  "changePct": 2.9,
+  "trend": "up"
+ },
+ {
+  "id": "m445",
+  "mandiId": 134,
+  "commodity": "Tomato",
+  "price": 1605,
+  "prevPrice": 1605,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m446",
+  "mandiId": 135,
+  "commodity": "Rice",
+  "price": 3610,
+  "prevPrice": 3539,
+  "changePct": 2,
+  "trend": "up"
+ },
+ {
+  "id": "m447",
+  "mandiId": 135,
+  "commodity": "Onion",
+  "price": 2205,
+  "prevPrice": 2205,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m448",
+  "mandiId": 135,
+  "commodity": "Potato",
+  "price": 1200,
+  "prevPrice": 1130,
+  "changePct": 6.2,
+  "trend": "up"
+ },
+ {
+  "id": "m449",
+  "mandiId": 136,
+  "commodity": "Rice",
+  "price": 3870,
+  "prevPrice": 3925,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m450",
+  "mandiId": 136,
+  "commodity": "Wheat",
+  "price": 2500,
+  "prevPrice": 2541,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m451",
+  "mandiId": 136,
+  "commodity": "Potato",
+  "price": 1185,
+  "prevPrice": 1222,
+  "changePct": -3,
+  "trend": "down"
+ },
+ {
+  "id": "m452",
+  "mandiId": 136,
+  "commodity": "Onion",
+  "price": 2205,
+  "prevPrice": 2124,
+  "changePct": 3.8,
+  "trend": "up"
+ },
+ {
+  "id": "m453",
+  "mandiId": 137,
+  "commodity": "Gram (Chana)",
+  "price": 4715,
+  "prevPrice": 4734,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m454",
+  "mandiId": 137,
+  "commodity": "Rice",
+  "price": 4035,
+  "prevPrice": 4084,
+  "changePct": -1.2,
+  "trend": "down"
+ },
+ {
+  "id": "m455",
+  "mandiId": 137,
+  "commodity": "Potato",
+  "price": 1215,
+  "prevPrice": 1176,
+  "changePct": 3.3,
+  "trend": "up"
+ },
+ {
+  "id": "m456",
+  "mandiId": 137,
+  "commodity": "Onion",
+  "price": 1955,
+  "prevPrice": 1963,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m457",
+  "mandiId": 138,
+  "commodity": "Wheat",
+  "price": 2375,
+  "prevPrice": 2446,
+  "changePct": -2.9,
+  "trend": "down"
+ },
+ {
+  "id": "m458",
+  "mandiId": 138,
+  "commodity": "Mustard",
+  "price": 5975,
+  "prevPrice": 6066,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m459",
+  "mandiId": 138,
+  "commodity": "Potato",
+  "price": 1175,
+  "prevPrice": 1181,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m460",
+  "mandiId": 138,
+  "commodity": "Rice",
+  "price": 4100,
+  "prevPrice": 4162,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m461",
+  "mandiId": 139,
+  "commodity": "Potato",
+  "price": 1255,
+  "prevPrice": 1180,
+  "changePct": 6.4,
+  "trend": "up"
+ },
+ {
+  "id": "m462",
+  "mandiId": 139,
+  "commodity": "Wheat",
+  "price": 2540,
+  "prevPrice": 2592,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m463",
+  "mandiId": 139,
+  "commodity": "Mustard",
+  "price": 5465,
+  "prevPrice": 5416,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m464",
+  "mandiId": 140,
+  "commodity": "Wheat",
+  "price": 2435,
+  "prevPrice": 2508,
+  "changePct": -2.9,
+  "trend": "down"
+ },
+ {
+  "id": "m465",
+  "mandiId": 140,
+  "commodity": "Onion",
+  "price": 2390,
+  "prevPrice": 2500,
+  "changePct": -4.4,
+  "trend": "down"
+ },
+ {
+  "id": "m466",
+  "mandiId": 140,
+  "commodity": "Rice",
+  "price": 4120,
+  "prevPrice": 4191,
+  "changePct": -1.7,
+  "trend": "down"
+ },
+ {
+  "id": "m467",
+  "mandiId": 141,
+  "commodity": "Mustard",
+  "price": 5995,
+  "prevPrice": 5953,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m468",
+  "mandiId": 141,
+  "commodity": "Rice",
+  "price": 3855,
+  "prevPrice": 3779,
+  "changePct": 2,
+  "trend": "up"
+ },
+ {
+  "id": "m469",
+  "mandiId": 141,
+  "commodity": "Onion",
+  "price": 2370,
+  "prevPrice": 2464,
+  "changePct": -3.8,
+  "trend": "down"
+ },
+ {
+  "id": "m470",
+  "mandiId": 142,
+  "commodity": "Onion",
+  "price": 2340,
+  "prevPrice": 2541,
+  "changePct": -7.9,
+  "trend": "down"
+ },
+ {
+  "id": "m471",
+  "mandiId": 142,
+  "commodity": "Potato",
+  "price": 1255,
+  "prevPrice": 1234,
+  "changePct": 1.7,
+  "trend": "up"
+ },
+ {
+  "id": "m472",
+  "mandiId": 142,
+  "commodity": "Rice",
+  "price": 3730,
+  "prevPrice": 3779,
+  "changePct": -1.3,
+  "trend": "down"
+ },
+ {
+  "id": "m473",
+  "mandiId": 143,
+  "commodity": "Rice",
+  "price": 3885,
+  "prevPrice": 3850,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m474",
+  "mandiId": 143,
+  "commodity": "Wheat",
+  "price": 2330,
+  "prevPrice": 2280,
+  "changePct": 2.2,
+  "trend": "up"
+ },
+ {
+  "id": "m475",
+  "mandiId": 143,
+  "commodity": "Potato",
+  "price": 1280,
+  "prevPrice": 1345,
+  "changePct": -4.8,
+  "trend": "down"
+ },
+ {
+  "id": "m476",
+  "mandiId": 144,
+  "commodity": "Potato",
+  "price": 1200,
+  "prevPrice": 1165,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m477",
+  "mandiId": 144,
+  "commodity": "Rice",
+  "price": 4210,
+  "prevPrice": 4292,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m478",
+  "mandiId": 144,
+  "commodity": "Mustard",
+  "price": 6085,
+  "prevPrice": 6128,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m479",
+  "mandiId": 145,
+  "commodity": "Mustard",
+  "price": 5680,
+  "prevPrice": 5657,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m480",
+  "mandiId": 145,
+  "commodity": "Onion",
+  "price": 2110,
+  "prevPrice": 2069,
+  "changePct": 2,
+  "trend": "up"
+ },
+ {
+  "id": "m481",
+  "mandiId": 145,
+  "commodity": "Wheat",
+  "price": 2435,
+  "prevPrice": 2404,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m482",
+  "mandiId": 145,
+  "commodity": "Potato",
+  "price": 1335,
+  "prevPrice": 1420,
+  "changePct": -6,
+  "trend": "down"
+ },
+ {
+  "id": "m483",
+  "mandiId": 146,
+  "commodity": "Mustard",
+  "price": 5610,
+  "prevPrice": 5410,
+  "changePct": 3.7,
+  "trend": "up"
+ },
+ {
+  "id": "m484",
+  "mandiId": 146,
+  "commodity": "Wheat",
+  "price": 2410,
+  "prevPrice": 2374,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m485",
+  "mandiId": 146,
+  "commodity": "Rice",
+  "price": 3975,
+  "prevPrice": 3975,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m486",
+  "mandiId": 147,
+  "commodity": "Onion",
+  "price": 2425,
+  "prevPrice": 2401,
+  "changePct": 1,
+  "trend": "up"
+ },
+ {
+  "id": "m487",
+  "mandiId": 147,
+  "commodity": "Wheat",
+  "price": 2510,
+  "prevPrice": 2580,
+  "changePct": -2.7,
+  "trend": "down"
+ },
+ {
+  "id": "m488",
+  "mandiId": 147,
+  "commodity": "Rice",
+  "price": 4015,
+  "prevPrice": 4027,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m489",
+  "mandiId": 148,
+  "commodity": "Rice",
+  "price": 4075,
+  "prevPrice": 4112,
+  "changePct": -0.9,
+  "trend": "down"
+ },
+ {
+  "id": "m490",
+  "mandiId": 148,
+  "commodity": "Wheat",
+  "price": 2695,
+  "prevPrice": 2647,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m491",
+  "mandiId": 148,
+  "commodity": "Mustard",
+  "price": 5610,
+  "prevPrice": 5436,
+  "changePct": 3.2,
+  "trend": "up"
+ },
+ {
+  "id": "m492",
+  "mandiId": 149,
+  "commodity": "Mustard",
+  "price": 5745,
+  "prevPrice": 5904,
+  "changePct": -2.7,
+  "trend": "down"
+ },
+ {
+  "id": "m493",
+  "mandiId": 149,
+  "commodity": "Potato",
+  "price": 1140,
+  "prevPrice": 1174,
+  "changePct": -2.9,
+  "trend": "down"
+ },
+ {
+  "id": "m494",
+  "mandiId": 149,
+  "commodity": "Wheat",
+  "price": 2365,
+  "prevPrice": 2321,
+  "changePct": 1.9,
+  "trend": "up"
+ },
+ {
+  "id": "m495",
+  "mandiId": 150,
+  "commodity": "Mustard",
+  "price": 6070,
+  "prevPrice": 6119,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m496",
+  "mandiId": 150,
+  "commodity": "Onion",
+  "price": 2120,
+  "prevPrice": 2027,
+  "changePct": 4.6,
+  "trend": "up"
+ },
+ {
+  "id": "m497",
+  "mandiId": 150,
+  "commodity": "Potato",
+  "price": 1245,
+  "prevPrice": 1339,
+  "changePct": -7,
+  "trend": "down"
+ },
+ {
+  "id": "m498",
+  "mandiId": 151,
+  "commodity": "Wheat",
+  "price": 2395,
+  "prevPrice": 2353,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m499",
+  "mandiId": 151,
+  "commodity": "Mustard",
+  "price": 6200,
+  "prevPrice": 6339,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m500",
+  "mandiId": 151,
+  "commodity": "Rice",
+  "price": 3855,
+  "prevPrice": 3817,
+  "changePct": 1,
+  "trend": "up"
+ },
+ {
+  "id": "m501",
+  "mandiId": 152,
+  "commodity": "Mustard",
+  "price": 5540,
+  "prevPrice": 5373,
+  "changePct": 3.1,
+  "trend": "up"
+ },
+ {
+  "id": "m502",
+  "mandiId": 152,
+  "commodity": "Potato",
+  "price": 1285,
+  "prevPrice": 1310,
+  "changePct": -1.9,
+  "trend": "down"
+ },
+ {
+  "id": "m503",
+  "mandiId": 152,
+  "commodity": "Onion",
+  "price": 2090,
+  "prevPrice": 2015,
+  "changePct": 3.7,
+  "trend": "up"
+ },
+ {
+  "id": "m504",
+  "mandiId": 152,
+  "commodity": "Rice",
+  "price": 3800,
+  "prevPrice": 3777,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m505",
+  "mandiId": 153,
+  "commodity": "Mustard",
+  "price": 5485,
+  "prevPrice": 5404,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m506",
+  "mandiId": 153,
+  "commodity": "Onion",
+  "price": 2135,
+  "prevPrice": 1984,
+  "changePct": 7.6,
+  "trend": "up"
+ },
+ {
+  "id": "m507",
+  "mandiId": 153,
+  "commodity": "Wheat",
+  "price": 2545,
+  "prevPrice": 2555,
+  "changePct": -0.4,
+  "trend": "down"
+ },
+ {
+  "id": "m508",
+  "mandiId": 154,
+  "commodity": "Gram (Chana)",
+  "price": 5700,
+  "prevPrice": 5638,
+  "changePct": 1.1,
+  "trend": "up"
+ },
+ {
+  "id": "m509",
+  "mandiId": 154,
+  "commodity": "Wheat",
+  "price": 2340,
+  "prevPrice": 2373,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m510",
+  "mandiId": 154,
+  "commodity": "Mustard",
+  "price": 5370,
+  "prevPrice": 5249,
+  "changePct": 2.3,
+  "trend": "up"
+ },
+ {
+  "id": "m511",
+  "mandiId": 154,
+  "commodity": "Potato",
+  "price": 1125,
+  "prevPrice": 1132,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m512",
+  "mandiId": 155,
+  "commodity": "Mustard",
+  "price": 5885,
+  "prevPrice": 6036,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m513",
+  "mandiId": 155,
+  "commodity": "Tomato",
+  "price": 1510,
+  "prevPrice": 1410,
+  "changePct": 7.1,
+  "trend": "up"
+ },
+ {
+  "id": "m514",
+  "mandiId": 155,
+  "commodity": "Onion",
+  "price": 2310,
+  "prevPrice": 2129,
+  "changePct": 8.5,
+  "trend": "up"
+ },
+ {
+  "id": "m515",
+  "mandiId": 155,
+  "commodity": "Gram (Chana)",
+  "price": 5640,
+  "prevPrice": 5492,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m516",
+  "mandiId": 156,
+  "commodity": "Mustard",
+  "price": 5605,
+  "prevPrice": 5766,
+  "changePct": -2.8,
+  "trend": "down"
+ },
+ {
+  "id": "m517",
+  "mandiId": 156,
+  "commodity": "Gram (Chana)",
+  "price": 5055,
+  "prevPrice": 5086,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m518",
+  "mandiId": 156,
+  "commodity": "Onion",
+  "price": 2355,
+  "prevPrice": 2557,
+  "changePct": -7.9,
+  "trend": "down"
+ },
+ {
+  "id": "m519",
+  "mandiId": 156,
+  "commodity": "Potato",
+  "price": 1280,
+  "prevPrice": 1328,
+  "changePct": -3.6,
+  "trend": "down"
+ },
+ {
+  "id": "m520",
+  "mandiId": 157,
+  "commodity": "Potato",
+  "price": 1210,
+  "prevPrice": 1178,
+  "changePct": 2.7,
+  "trend": "up"
+ },
+ {
+  "id": "m521",
+  "mandiId": 157,
+  "commodity": "Wheat",
+  "price": 2545,
+  "prevPrice": 2485,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m522",
+  "mandiId": 157,
+  "commodity": "Gram (Chana)",
+  "price": 5265,
+  "prevPrice": 5291,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m523",
+  "mandiId": 158,
+  "commodity": "Wheat",
+  "price": 2525,
+  "prevPrice": 2475,
+  "changePct": 2,
+  "trend": "up"
+ },
+ {
+  "id": "m524",
+  "mandiId": 158,
+  "commodity": "Potato",
+  "price": 1185,
+  "prevPrice": 1242,
+  "changePct": -4.6,
+  "trend": "down"
+ },
+ {
+  "id": "m525",
+  "mandiId": 158,
+  "commodity": "Tomato",
+  "price": 1715,
+  "prevPrice": 1739,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m526",
+  "mandiId": 158,
+  "commodity": "Gram (Chana)",
+  "price": 5390,
+  "prevPrice": 5450,
+  "changePct": -1.1,
+  "trend": "down"
+ },
+ {
+  "id": "m527",
+  "mandiId": 159,
+  "commodity": "Gram (Chana)",
+  "price": 5375,
+  "prevPrice": 5391,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m528",
+  "mandiId": 159,
+  "commodity": "Onion",
+  "price": 2420,
+  "prevPrice": 2585,
+  "changePct": -6.4,
+  "trend": "down"
+ },
+ {
+  "id": "m529",
+  "mandiId": 159,
+  "commodity": "Wheat",
+  "price": 2320,
+  "prevPrice": 2257,
+  "changePct": 2.8,
+  "trend": "up"
+ },
+ {
+  "id": "m530",
+  "mandiId": 160,
+  "commodity": "Potato",
+  "price": 1200,
+  "prevPrice": 1245,
+  "changePct": -3.6,
+  "trend": "down"
+ },
+ {
+  "id": "m531",
+  "mandiId": 160,
+  "commodity": "Wheat",
+  "price": 2630,
+  "prevPrice": 2646,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m532",
+  "mandiId": 160,
+  "commodity": "Tomato",
+  "price": 1575,
+  "prevPrice": 1564,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m533",
+  "mandiId": 161,
+  "commodity": "Mustard",
+  "price": 5855,
+  "prevPrice": 5768,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m534",
+  "mandiId": 161,
+  "commodity": "Tomato",
+  "price": 1700,
+  "prevPrice": 1712,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m535",
+  "mandiId": 161,
+  "commodity": "Gram (Chana)",
+  "price": 5790,
+  "prevPrice": 5721,
+  "changePct": 1.2,
+  "trend": "up"
+ },
+ {
+  "id": "m536",
+  "mandiId": 162,
+  "commodity": "Potato",
+  "price": 1270,
+  "prevPrice": 1234,
+  "changePct": 2.9,
+  "trend": "up"
+ },
+ {
+  "id": "m537",
+  "mandiId": 162,
+  "commodity": "Mustard",
+  "price": 5905,
+  "prevPrice": 6075,
+  "changePct": -2.8,
+  "trend": "down"
+ },
+ {
+  "id": "m538",
+  "mandiId": 162,
+  "commodity": "Gram (Chana)",
+  "price": 5240,
+  "prevPrice": 5352,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m539",
+  "mandiId": 162,
+  "commodity": "Onion",
+  "price": 2110,
+  "prevPrice": 2123,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m540",
+  "mandiId": 163,
+  "commodity": "Potato",
+  "price": 1245,
+  "prevPrice": 1255,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m541",
+  "mandiId": 163,
+  "commodity": "Mustard",
+  "price": 5595,
+  "prevPrice": 5652,
+  "changePct": -1,
+  "trend": "down"
+ },
+ {
+  "id": "m542",
+  "mandiId": 163,
+  "commodity": "Wheat",
+  "price": 2405,
+  "prevPrice": 2369,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m543",
+  "mandiId": 163,
+  "commodity": "Gram (Chana)",
+  "price": 5525,
+  "prevPrice": 5476,
+  "changePct": 0.9,
+  "trend": "up"
+ },
+ {
+  "id": "m544",
+  "mandiId": 164,
+  "commodity": "Wheat",
+  "price": 2625,
+  "prevPrice": 2692,
+  "changePct": -2.5,
+  "trend": "down"
+ },
+ {
+  "id": "m545",
+  "mandiId": 164,
+  "commodity": "Tomato",
+  "price": 1590,
+  "prevPrice": 1522,
+  "changePct": 4.5,
+  "trend": "up"
+ },
+ {
+  "id": "m546",
+  "mandiId": 164,
+  "commodity": "Onion",
+  "price": 2265,
+  "prevPrice": 2314,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m547",
+  "mandiId": 164,
+  "commodity": "Gram (Chana)",
+  "price": 5390,
+  "prevPrice": 5390,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m548",
+  "mandiId": 165,
+  "commodity": "Gram (Chana)",
+  "price": 5735,
+  "prevPrice": 5816,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m549",
+  "mandiId": 165,
+  "commodity": "Wheat",
+  "price": 2450,
+  "prevPrice": 2465,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m550",
+  "mandiId": 165,
+  "commodity": "Mustard",
+  "price": 5455,
+  "prevPrice": 5532,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m551",
+  "mandiId": 166,
+  "commodity": "Gram (Chana)",
+  "price": 5285,
+  "prevPrice": 5404,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m552",
+  "mandiId": 166,
+  "commodity": "Potato",
+  "price": 1280,
+  "prevPrice": 1368,
+  "changePct": -6.4,
+  "trend": "down"
+ },
+ {
+  "id": "m553",
+  "mandiId": 166,
+  "commodity": "Tomato",
+  "price": 1670,
+  "prevPrice": 1809,
+  "changePct": -7.7,
+  "trend": "down"
+ },
+ {
+  "id": "m554",
+  "mandiId": 167,
+  "commodity": "Potato",
+  "price": 1260,
+  "prevPrice": 1241,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m555",
+  "mandiId": 167,
+  "commodity": "Onion",
+  "price": 2175,
+  "prevPrice": 2085,
+  "changePct": 4.3,
+  "trend": "up"
+ },
+ {
+  "id": "m556",
+  "mandiId": 167,
+  "commodity": "Mustard",
+  "price": 5585,
+  "prevPrice": 5602,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m557",
+  "mandiId": 167,
+  "commodity": "Gram (Chana)",
+  "price": 5205,
+  "prevPrice": 5344,
+  "changePct": -2.6,
+  "trend": "down"
+ },
+ {
+  "id": "m558",
+  "mandiId": 168,
+  "commodity": "Tomato",
+  "price": 1670,
+  "prevPrice": 1851,
+  "changePct": -9.8,
+  "trend": "down"
+ },
+ {
+  "id": "m559",
+  "mandiId": 168,
+  "commodity": "Rice",
+  "price": 3995,
+  "prevPrice": 4085,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m560",
+  "mandiId": 168,
+  "commodity": "Onion",
+  "price": 2120,
+  "prevPrice": 1947,
+  "changePct": 8.9,
+  "trend": "up"
+ },
+ {
+  "id": "m561",
+  "mandiId": 169,
+  "commodity": "Tomato",
+  "price": 1455,
+  "prevPrice": 1346,
+  "changePct": 8.1,
+  "trend": "up"
+ },
+ {
+  "id": "m562",
+  "mandiId": 169,
+  "commodity": "Onion",
+  "price": 2080,
+  "prevPrice": 1959,
+  "changePct": 6.2,
+  "trend": "up"
+ },
+ {
+  "id": "m563",
+  "mandiId": 169,
+  "commodity": "Mustard",
+  "price": 5275,
+  "prevPrice": 5350,
+  "changePct": -1.4,
+  "trend": "down"
+ },
+ {
+  "id": "m564",
+  "mandiId": 170,
+  "commodity": "Potato",
+  "price": 1210,
+  "prevPrice": 1270,
+  "changePct": -4.7,
+  "trend": "down"
+ },
+ {
+  "id": "m565",
+  "mandiId": 170,
+  "commodity": "Tomato",
+  "price": 1460,
+  "prevPrice": 1639,
+  "changePct": -10.9,
+  "trend": "down"
+ },
+ {
+  "id": "m566",
+  "mandiId": 170,
+  "commodity": "Onion",
+  "price": 2130,
+  "prevPrice": 2092,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m567",
+  "mandiId": 170,
+  "commodity": "Mustard",
+  "price": 5800,
+  "prevPrice": 5979,
+  "changePct": -3,
+  "trend": "down"
+ },
+ {
+  "id": "m568",
+  "mandiId": 171,
+  "commodity": "Tomato",
+  "price": 1480,
+  "prevPrice": 1396,
+  "changePct": 6,
+  "trend": "up"
+ },
+ {
+  "id": "m569",
+  "mandiId": 171,
+  "commodity": "Mustard",
+  "price": 5560,
+  "prevPrice": 5780,
+  "changePct": -3.8,
+  "trend": "down"
+ },
+ {
+  "id": "m570",
+  "mandiId": 171,
+  "commodity": "Rice",
+  "price": 4095,
+  "prevPrice": 4132,
+  "changePct": -0.9,
+  "trend": "down"
+ },
+ {
+  "id": "m571",
+  "mandiId": 171,
+  "commodity": "Onion",
+  "price": 2285,
+  "prevPrice": 2193,
+  "changePct": 4.2,
+  "trend": "up"
+ },
+ {
+  "id": "m572",
+  "mandiId": 172,
+  "commodity": "Mustard",
+  "price": 5080,
+  "prevPrice": 5050,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m573",
+  "mandiId": 172,
+  "commodity": "Tomato",
+  "price": 1605,
+  "prevPrice": 1450,
+  "changePct": 10.7,
+  "trend": "up"
+ },
+ {
+  "id": "m574",
+  "mandiId": 172,
+  "commodity": "Rice",
+  "price": 3590,
+  "prevPrice": 3540,
+  "changePct": 1.4,
+  "trend": "up"
+ },
+ {
+  "id": "m575",
+  "mandiId": 172,
+  "commodity": "Potato",
+  "price": 1220,
+  "prevPrice": 1224,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m576",
+  "mandiId": 173,
+  "commodity": "Rice",
+  "price": 3950,
+  "prevPrice": 3938,
+  "changePct": 0.3,
+  "trend": "up"
+ },
+ {
+  "id": "m577",
+  "mandiId": 173,
+  "commodity": "Potato",
+  "price": 1200,
+  "prevPrice": 1124,
+  "changePct": 6.8,
+  "trend": "up"
+ },
+ {
+  "id": "m578",
+  "mandiId": 173,
+  "commodity": "Tomato",
+  "price": 1680,
+  "prevPrice": 1748,
+  "changePct": -3.9,
+  "trend": "down"
+ },
+ {
+  "id": "m579",
+  "mandiId": 174,
+  "commodity": "Tomato",
+  "price": 1455,
+  "prevPrice": 1467,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m580",
+  "mandiId": 174,
+  "commodity": "Rice",
+  "price": 4105,
+  "prevPrice": 4056,
+  "changePct": 1.2,
+  "trend": "up"
+ },
+ {
+  "id": "m581",
+  "mandiId": 174,
+  "commodity": "Potato",
+  "price": 1230,
+  "prevPrice": 1154,
+  "changePct": 6.6,
+  "trend": "up"
+ },
+ {
+  "id": "m582",
+  "mandiId": 175,
+  "commodity": "Rice",
+  "price": 3635,
+  "prevPrice": 3581,
+  "changePct": 1.5,
+  "trend": "up"
+ },
+ {
+  "id": "m583",
+  "mandiId": 175,
+  "commodity": "Tomato",
+  "price": 1650,
+  "prevPrice": 1742,
+  "changePct": -5.3,
+  "trend": "down"
+ },
+ {
+  "id": "m584",
+  "mandiId": 175,
+  "commodity": "Potato",
+  "price": 1225,
+  "prevPrice": 1292,
+  "changePct": -5.2,
+  "trend": "down"
+ },
+ {
+  "id": "m585",
+  "mandiId": 176,
+  "commodity": "Potato",
+  "price": 1090,
+  "prevPrice": 1077,
+  "changePct": 1.2,
+  "trend": "up"
+ },
+ {
+  "id": "m586",
+  "mandiId": 176,
+  "commodity": "Mustard",
+  "price": 5495,
+  "prevPrice": 5424,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m587",
+  "mandiId": 176,
+  "commodity": "Onion",
+  "price": 2150,
+  "prevPrice": 2135,
+  "changePct": 0.7,
+  "trend": "up"
+ },
+ {
+  "id": "m588",
+  "mandiId": 176,
+  "commodity": "Rice",
+  "price": 3875,
+  "prevPrice": 3918,
+  "changePct": -1.1,
+  "trend": "down"
+ },
+ {
+  "id": "m589",
+  "mandiId": 177,
+  "commodity": "Onion",
+  "price": 2120,
+  "prevPrice": 2120,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m590",
+  "mandiId": 177,
+  "commodity": "Mustard",
+  "price": 5725,
+  "prevPrice": 5725,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m591",
+  "mandiId": 177,
+  "commodity": "Tomato",
+  "price": 1600,
+  "prevPrice": 1822,
+  "changePct": -12.2,
+  "trend": "down"
+ },
+ {
+  "id": "m592",
+  "mandiId": 178,
+  "commodity": "Gram (Chana)",
+  "price": 5105,
+  "prevPrice": 4985,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m593",
+  "mandiId": 178,
+  "commodity": "Rice",
+  "price": 3915,
+  "prevPrice": 3846,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m594",
+  "mandiId": 178,
+  "commodity": "Tomato",
+  "price": 1575,
+  "prevPrice": 1658,
+  "changePct": -5,
+  "trend": "down"
+ },
+ {
+  "id": "m595",
+  "mandiId": 178,
+  "commodity": "Soybean",
+  "price": 4495,
+  "prevPrice": 4577,
+  "changePct": -1.8,
+  "trend": "down"
+ },
+ {
+  "id": "m596",
+  "mandiId": 179,
+  "commodity": "Gram (Chana)",
+  "price": 5040,
+  "prevPrice": 5159,
+  "changePct": -2.3,
+  "trend": "down"
+ },
+ {
+  "id": "m597",
+  "mandiId": 179,
+  "commodity": "Rice",
+  "price": 3785,
+  "prevPrice": 3831,
+  "changePct": -1.2,
+  "trend": "down"
+ },
+ {
+  "id": "m598",
+  "mandiId": 179,
+  "commodity": "Soybean",
+  "price": 4290,
+  "prevPrice": 4290,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m599",
+  "mandiId": 180,
+  "commodity": "Gram (Chana)",
+  "price": 5630,
+  "prevPrice": 5525,
+  "changePct": 1.9,
+  "trend": "up"
+ },
+ {
+  "id": "m600",
+  "mandiId": 180,
+  "commodity": "Tomato",
+  "price": 1575,
+  "prevPrice": 1535,
+  "changePct": 2.6,
+  "trend": "up"
+ },
+ {
+  "id": "m601",
+  "mandiId": 180,
+  "commodity": "Onion",
+  "price": 2335,
+  "prevPrice": 2298,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m602",
+  "mandiId": 181,
+  "commodity": "Gram (Chana)",
+  "price": 5065,
+  "prevPrice": 5174,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m603",
+  "mandiId": 181,
+  "commodity": "Soybean",
+  "price": 4630,
+  "prevPrice": 4566,
+  "changePct": 1.4,
+  "trend": "up"
+ },
+ {
+  "id": "m604",
+  "mandiId": 181,
+  "commodity": "Onion",
+  "price": 2305,
+  "prevPrice": 2345,
+  "changePct": -1.7,
+  "trend": "down"
+ },
+ {
+  "id": "m605",
+  "mandiId": 182,
+  "commodity": "Tomato",
+  "price": 1690,
+  "prevPrice": 1649,
+  "changePct": 2.5,
+  "trend": "up"
+ },
+ {
+  "id": "m606",
+  "mandiId": 182,
+  "commodity": "Gram (Chana)",
+  "price": 5290,
+  "prevPrice": 5317,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m607",
+  "mandiId": 182,
+  "commodity": "Soybean",
+  "price": 4665,
+  "prevPrice": 4765,
+  "changePct": -2.1,
+  "trend": "down"
+ },
+ {
+  "id": "m608",
+  "mandiId": 182,
+  "commodity": "Onion",
+  "price": 2300,
+  "prevPrice": 2492,
+  "changePct": -7.7,
+  "trend": "down"
+ },
+ {
+  "id": "m609",
+  "mandiId": 183,
+  "commodity": "Onion",
+  "price": 2370,
+  "prevPrice": 2292,
+  "changePct": 3.4,
+  "trend": "up"
+ },
+ {
+  "id": "m610",
+  "mandiId": 183,
+  "commodity": "Gram (Chana)",
+  "price": 5080,
+  "prevPrice": 4942,
+  "changePct": 2.8,
+  "trend": "up"
+ },
+ {
+  "id": "m611",
+  "mandiId": 183,
+  "commodity": "Rice",
+  "price": 3895,
+  "prevPrice": 3907,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m612",
+  "mandiId": 183,
+  "commodity": "Soybean",
+  "price": 4285,
+  "prevPrice": 4381,
+  "changePct": -2.2,
+  "trend": "down"
+ },
+ {
+  "id": "m613",
+  "mandiId": 184,
+  "commodity": "Gram (Chana)",
+  "price": 5225,
+  "prevPrice": 5353,
+  "changePct": -2.4,
+  "trend": "down"
+ },
+ {
+  "id": "m614",
+  "mandiId": 184,
+  "commodity": "Rice",
+  "price": 4010,
+  "prevPrice": 4030,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m615",
+  "mandiId": 184,
+  "commodity": "Onion",
+  "price": 2295,
+  "prevPrice": 2111,
+  "changePct": 8.7,
+  "trend": "up"
+ },
+ {
+  "id": "m616",
+  "mandiId": 184,
+  "commodity": "Soybean",
+  "price": 4180,
+  "prevPrice": 4139,
+  "changePct": 1,
+  "trend": "up"
+ },
+ {
+  "id": "m617",
+  "mandiId": 185,
+  "commodity": "Soybean",
+  "price": 4815,
+  "prevPrice": 4730,
+  "changePct": 1.8,
+  "trend": "up"
+ },
+ {
+  "id": "m618",
+  "mandiId": 185,
+  "commodity": "Onion",
+  "price": 2245,
+  "prevPrice": 2419,
+  "changePct": -7.2,
+  "trend": "down"
+ },
+ {
+  "id": "m619",
+  "mandiId": 185,
+  "commodity": "Rice",
+  "price": 4070,
+  "prevPrice": 3986,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m620",
+  "mandiId": 186,
+  "commodity": "Onion",
+  "price": 2265,
+  "prevPrice": 2229,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m621",
+  "mandiId": 186,
+  "commodity": "Rice",
+  "price": 3750,
+  "prevPrice": 3728,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m622",
+  "mandiId": 186,
+  "commodity": "Gram (Chana)",
+  "price": 5050,
+  "prevPrice": 5201,
+  "changePct": -2.9,
+  "trend": "down"
+ },
+ {
+  "id": "m623",
+  "mandiId": 186,
+  "commodity": "Tomato",
+  "price": 1530,
+  "prevPrice": 1652,
+  "changePct": -7.4,
+  "trend": "down"
+ },
+ {
+  "id": "m624",
+  "mandiId": 187,
+  "commodity": "Rice",
+  "price": 3810,
+  "prevPrice": 3750,
+  "changePct": 1.6,
+  "trend": "up"
+ },
+ {
+  "id": "m625",
+  "mandiId": 187,
+  "commodity": "Tomato",
+  "price": 1520,
+  "prevPrice": 1528,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m626",
+  "mandiId": 187,
+  "commodity": "Gram (Chana)",
+  "price": 5410,
+  "prevPrice": 5437,
+  "changePct": -0.5,
+  "trend": "down"
+ },
+ {
+  "id": "m627",
+  "mandiId": 188,
+  "commodity": "Onion",
+  "price": 2185,
+  "prevPrice": 2038,
+  "changePct": 7.2,
+  "trend": "up"
+ },
+ {
+  "id": "m628",
+  "mandiId": 188,
+  "commodity": "Rice",
+  "price": 3910,
+  "prevPrice": 3990,
+  "changePct": -2,
+  "trend": "down"
+ },
+ {
+  "id": "m629",
+  "mandiId": 188,
+  "commodity": "Gram (Chana)",
+  "price": 5680,
+  "prevPrice": 5720,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m630",
+  "mandiId": 189,
+  "commodity": "Onion",
+  "price": 2080,
+  "prevPrice": 1966,
+  "changePct": 5.8,
+  "trend": "up"
+ },
+ {
+  "id": "m631",
+  "mandiId": 189,
+  "commodity": "Soybean",
+  "price": 4180,
+  "prevPrice": 4082,
+  "changePct": 2.4,
+  "trend": "up"
+ },
+ {
+  "id": "m632",
+  "mandiId": 189,
+  "commodity": "Tomato",
+  "price": 1605,
+  "prevPrice": 1415,
+  "changePct": 13.4,
+  "trend": "up"
+ },
+ {
+  "id": "m633",
+  "mandiId": 190,
+  "commodity": "Gram (Chana)",
+  "price": 5055,
+  "prevPrice": 4951,
+  "changePct": 2.1,
+  "trend": "up"
+ },
+ {
+  "id": "m634",
+  "mandiId": 190,
+  "commodity": "Onion",
+  "price": 2215,
+  "prevPrice": 2032,
+  "changePct": 9,
+  "trend": "up"
+ },
+ {
+  "id": "m635",
+  "mandiId": 190,
+  "commodity": "Tomato",
+  "price": 1670,
+  "prevPrice": 1780,
+  "changePct": -6.2,
+  "trend": "down"
+ },
+ {
+  "id": "m636",
+  "mandiId": 190,
+  "commodity": "Soybean",
+  "price": 4425,
+  "prevPrice": 4373,
+  "changePct": 1.2,
+  "trend": "up"
+ },
+ {
+  "id": "m637",
+  "mandiId": 191,
+  "commodity": "Tomato",
+  "price": 1640,
+  "prevPrice": 1790,
+  "changePct": -8.4,
+  "trend": "down"
+ },
+ {
+  "id": "m638",
+  "mandiId": 191,
+  "commodity": "Rice",
+  "price": 3740,
+  "prevPrice": 3692,
+  "changePct": 1.3,
+  "trend": "up"
+ },
+ {
+  "id": "m639",
+  "mandiId": 191,
+  "commodity": "Gram (Chana)",
+  "price": 5115,
+  "prevPrice": 5084,
+  "changePct": 0.6,
+  "trend": "up"
+ },
+ {
+  "id": "m640",
+  "mandiId": 191,
+  "commodity": "Onion",
+  "price": 2340,
+  "prevPrice": 2163,
+  "changePct": 8.2,
+  "trend": "up"
+ },
+ {
+  "id": "m641",
+  "mandiId": 192,
+  "commodity": "Onion",
+  "price": 2370,
+  "prevPrice": 2384,
+  "changePct": -0.6,
+  "trend": "down"
+ },
+ {
+  "id": "m642",
+  "mandiId": 192,
+  "commodity": "Tomato",
+  "price": 1635,
+  "prevPrice": 1754,
+  "changePct": -6.8,
+  "trend": "down"
+ },
+ {
+  "id": "m643",
+  "mandiId": 192,
+  "commodity": "Gram (Chana)",
+  "price": 5350,
+  "prevPrice": 5329,
+  "changePct": 0.4,
+  "trend": "up"
+ },
+ {
+  "id": "m644",
+  "mandiId": 193,
+  "commodity": "Gram (Chana)",
+  "price": 4880,
+  "prevPrice": 4832,
+  "changePct": 1,
+  "trend": "up"
+ },
+ {
+  "id": "m645",
+  "mandiId": 193,
+  "commodity": "Rice",
+  "price": 3680,
+  "prevPrice": 3662,
+  "changePct": 0.5,
+  "trend": "up"
+ },
+ {
+  "id": "m646",
+  "mandiId": 193,
+  "commodity": "Tomato",
+  "price": 1590,
+  "prevPrice": 1740,
+  "changePct": -8.6,
+  "trend": "down"
+ },
+ {
+  "id": "m647",
+  "mandiId": 194,
+  "commodity": "Gram (Chana)",
+  "price": 5345,
+  "prevPrice": 5287,
+  "changePct": 1.1,
+  "trend": "up"
+ },
+ {
+  "id": "m648",
+  "mandiId": 194,
+  "commodity": "Tomato",
+  "price": 1530,
+  "prevPrice": 1704,
+  "changePct": -10.2,
+  "trend": "down"
+ },
+ {
+  "id": "m649",
+  "mandiId": 194,
+  "commodity": "Rice",
+  "price": 4080,
+  "prevPrice": 4080,
+  "changePct": 0,
+  "trend": "flat"
+ },
+ {
+  "id": "m650",
+  "mandiId": 195,
+  "commodity": "Rice",
+  "price": 3815,
+  "prevPrice": 3850,
+  "changePct": -0.9,
+  "trend": "down"
+ },
+ {
+  "id": "m651",
+  "mandiId": 195,
+  "commodity": "Tomato",
+  "price": 1710,
+  "prevPrice": 1873,
+  "changePct": -8.7,
+  "trend": "down"
+ },
+ {
+  "id": "m652",
+  "mandiId": 195,
+  "commodity": "Gram (Chana)",
+  "price": 5315,
+  "prevPrice": 5401,
+  "changePct": -1.6,
+  "trend": "down"
+ },
+ {
+  "id": "m653",
+  "mandiId": 195,
+  "commodity": "Onion",
+  "price": 2285,
+  "prevPrice": 2166,
+  "changePct": 5.5,
+  "trend": "up"
+ },
+ {
+  "id": "m654",
+  "mandiId": 196,
+  "commodity": "Rice",
+  "price": 3660,
+  "prevPrice": 3571,
+  "changePct": 2.5,
+  "trend": "up"
+ },
+ {
+  "id": "m655",
+  "mandiId": 196,
+  "commodity": "Potato",
+  "price": 1100,
+  "prevPrice": 1065,
+  "changePct": 3.3,
+  "trend": "up"
+ },
+ {
+  "id": "m656",
+  "mandiId": 196,
+  "commodity": "Onion",
+  "price": 2130,
+  "prevPrice": 2136,
+  "changePct": -0.3,
+  "trend": "down"
+ },
+ {
+  "id": "m657",
+  "mandiId": 197,
+  "commodity": "Tomato",
+  "price": 1670,
+  "prevPrice": 1682,
+  "changePct": -0.7,
+  "trend": "down"
+ },
+ {
+  "id": "m658",
+  "mandiId": 197,
+  "commodity": "Onion",
+  "price": 2210,
+  "prevPrice": 2314,
+  "changePct": -4.5,
+  "trend": "down"
+ },
+ {
+  "id": "m659",
+  "mandiId": 197,
+  "commodity": "Potato",
+  "price": 1125,
+  "prevPrice": 1092,
+  "changePct": 3,
+  "trend": "up"
+ },
+ {
+  "id": "m660",
+  "mandiId": 198,
+  "commodity": "Gram (Chana)",
+  "price": 4835,
+  "prevPrice": 4754,
+  "changePct": 1.7,
+  "trend": "up"
+ },
+ {
+  "id": "m661",
+  "mandiId": 198,
+  "commodity": "Potato",
+  "price": 1095,
+  "prevPrice": 1049,
+  "changePct": 4.4,
+  "trend": "up"
+ },
+ {
+  "id": "m662",
+  "mandiId": 198,
+  "commodity": "Rice",
+  "price": 3485,
+  "prevPrice": 3538,
+  "changePct": -1.5,
+  "trend": "down"
+ },
+ {
+  "id": "m663",
+  "mandiId": 198,
+  "commodity": "Soybean",
+  "price": 4135,
+  "prevPrice": 4066,
+  "changePct": 1.7,
+  "trend": "up"
+ },
+ {
+  "id": "m664",
+  "mandiId": 199,
+  "commodity": "Potato",
+  "price": 1085,
+  "prevPrice": 1148,
+  "changePct": -5.5,
+  "trend": "down"
+ },
+ {
+  "id": "m665",
+  "mandiId": 199,
+  "commodity": "Soybean",
+  "price": 4465,
+  "prevPrice": 4356,
+  "changePct": 2.5,
+  "trend": "up"
+ },
+ {
+  "id": "m666",
+  "mandiId": 199,
+  "commodity": "Rice",
+  "price": 3880,
+  "prevPrice": 3911,
+  "changePct": -0.8,
+  "trend": "down"
+ },
+ {
+  "id": "m667",
+  "mandiId": 200,
+  "commodity": "Soybean",
+  "price": 4600,
+  "prevPrice": 4684,
+  "changePct": -1.8,
+  "trend": "down"
+ },
+ {
+  "id": "m668",
+  "mandiId": 200,
+  "commodity": "Gram (Chana)",
+  "price": 5205,
+  "prevPrice": 5360,
+  "changePct": -2.9,
+  "trend": "down"
+ },
+ {
+  "id": "m669",
+  "mandiId": 200,
+  "commodity": "Potato",
+  "price": 1210,
+  "prevPrice": 1236,
+  "changePct": -2.1,
+  "trend": "down"
+ }
+]

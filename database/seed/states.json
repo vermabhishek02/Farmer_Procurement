@@ -1,0 +1,58 @@
+[
+ {
+  "name": "Uttar Pradesh",
+  "code": "UP"
+ },
+ {
+  "name": "Madhya Pradesh",
+  "code": "MP"
+ },
+ {
+  "name": "Punjab",
+  "code": "PB"
+ },
+ {
+  "name": "Rajasthan",
+  "code": "RJ"
+ },
+ {
+  "name": "Maharashtra",
+  "code": "MH"
+ },
+ {
+  "name": "Bihar",
+  "code": "BR"
+ },
+ {
+  "name": "Haryana",
+  "code": "HR"
+ },
+ {
+  "name": "Gujarat",
+  "code": "GJ"
+ },
+ {
+  "name": "West Bengal",
+  "code": "WB"
+ },
+ {
+  "name": "Karnataka",
+  "code": "KA"
+ },
+ {
+  "name": "Telangana",
+  "code": "TG"
+ },
+ {
+  "name": "Andhra Pradesh",
+  "code": "AP"
+ },
+ {
+  "name": "Odisha",
+  "code": "OD"
+ },
+ {
+  "name": "Chhattisgarh",
+  "code": "CG"
+ }
+]

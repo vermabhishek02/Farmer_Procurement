@@ -1,0 +1,87 @@
+[
+ {
+  "id": "c1",
+  "name": "Kisan Cold Chain",
+  "location": "Agra",
+  "state": "Uttar Pradesh",
+  "capacityTonnes": 5000,
+  "openPct": 40,
+  "pricePerQuintal": 32,
+  "commodities": [
+   "Potato",
+   "Onion"
+  ],
+  "distanceKm": 12
+ },
+ {
+  "id": "c2",
+  "name": "Annapurna Storage",
+  "location": "Indore",
+  "state": "Madhya Pradesh",
+  "capacityTonnes": 8000,
+  "openPct": 18,
+  "pricePerQuintal": 28,
+  "commodities": [
+   "Soybean",
+   "Gram (Chana)",
+   "Wheat"
+  ],
+  "distanceKm": 24
+ },
+ {
+  "id": "c3",
+  "name": "Green Valley Cold",
+  "location": "Nashik",
+  "state": "Maharashtra",
+  "capacityTonnes": 6500,
+  "openPct": 62,
+  "pricePerQuintal": 36,
+  "commodities": [
+   "Onion",
+   "Tomato"
+  ],
+  "distanceKm": 8
+ },
+ {
+  "id": "c4",
+  "name": "Punjab Agri Freeze",
+  "location": "Ludhiana",
+  "state": "Punjab",
+  "capacityTonnes": 12000,
+  "openPct": 25,
+  "pricePerQuintal": 30,
+  "commodities": [
+   "Potato",
+   "Wheat"
+  ],
+  "distanceKm": 31
+ },
+ {
+  "id": "c5",
+  "name": "Marwar Cold Hub",
+  "location": "Jaipur",
+  "state": "Rajasthan",
+  "capacityTonnes": 4200,
+  "openPct": 55,
+  "pricePerQuintal": 34,
+  "commodities": [
+   "Mustard",
+   "Onion"
+  ],
+  "distanceKm": 19
+ },
+ {
+  "id": "c6",
+  "name": "Ganga Cold Store",
+  "location": "Patna",
+  "state": "Bihar",
+  "capacityTonnes": 3600,
+  "openPct": 47,
+  "pricePerQuintal": 26,
+  "commodities": [
+   "Potato",
+   "Tomato"
+  ],
+  "distanceKm": 15
+ }
+]
